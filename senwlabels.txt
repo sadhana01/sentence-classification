@@ -1,0 +1,989 @@
+Process	Sentence	Label
+absorb	If it can't absorb then it can't work and the fact it cannot absorb is the indicator that it is not needed.	0
+absorb	Jun 15, 2013 ... Vitamin D is necessary for absorbing the calcium in your diet (and making your baby's bones strong).	0
+absorb	Roots absorb water and nutrients from the soil into the plant.	1
+absorb	When the ground absorbs the water and it settles below the surface, it is called groundwater.	1
+absorb	Clouds can block the Earth's ability to absorb light and heat from the sun and therefore can affect temperature.	1
+absorb	It is absorbed (taken in) by the leaves and is necessary for the plant to produce food.	1
+absorb	Sometimes the precipitation happens too quickly and the ground cannot absorb all of the water.	1
+absorption	that total hydrolysis is necessary for absorption of fat, has dominated.	0
+absorption	Absorption is the process by which EMR is absorbed and converted into other forms of energy.	0
+absorption	nonlinear nature of the interaction, absorption is confined to the focal volume inside ... Multiphoton absorption occurs due to the simultaneous absorption of...	0
+absorption	The higher absorption causes the unabsorbed line intensity to be more than two orders of magnitude higher with the EW (relative to the bright high NH...	0
+absorption	Aug 22, 2003 ... Clearly, one must not lose sight of the fact that oil absorption depends on factors such as oil quality, frying time, oil and food temperature, shape...	0
+absorption	compressional wave absorption is caused by internal relax- ations, and do not allow for the possibility of internal fric- tion.	0
+absorption	Absorption occurs when molecular collisions take place before re-emission takes place, that is during the lifetime of the excited molecular state.	0
+absorption	The oral drug absorption is the process of drug transport from GI tract to blood compartment.	0
+absorption	Apr 28, 2008 ... absorption depends on factors such as drug potency, the duration of application and whether the skin is thin or damaged.	0
+absorption	This is the property of some materials that causes them to change in shape ... Absorption occurs due to loss of energy as heat, particularly in tissues that are...	0
+absorption	Feb 1, 2013 ... absorption occurs due to both decreased contact of the nutrients with the mucosa and decreased intestinal transit time.	0
+absorption	The resonant absorption occurs when and where the electron cyclotron frequency is equal to the input microwave frequency.	0
+absorption	A stress of arss,app  95.2 MPa is necessary for absorption of the last screw in the pile-up and leading to a twin-like pile-up of GBDs similar to the 3 case.	0
+absorption	Absorption occurs when an object takes in the light wave.	1
+absorption	Jul 2, 2014 ... Absorption occurs when an object completely takes in the signal and retains some or all of it.	1
+absorption	This occurs when a lot of reflection or absorption occurs due to the presence of...	0
+absorption	while physical absorption occurs when the body is in contact with media such ss molecular sieves, activated alumina, or silica gels.	1
+absorption	It is assumed that such absorption occurs due to the excitation of void.	1
+absorption	Absorption is the process of taking water, food, and oxygen into the cells.	1
+absorption	What percent of HC08- absorption is caused by H+ secretion?	0
+absorption	Light absorption occurs when atoms or molecules take up the energy of a photon of light, thereby reducing the transmission of light as it is passed through a...	1
+absorption	Jul 10, 2015 ... ... shock absorption depends on factors such as time, segment kinematics, tissue compressibility and elasticity, and vision preceding the impact.	1
+absorption	Dielectric absorption causes errors to occur in, for example, sample-and-hold circuits and A-D converters.	0
+absorption	ABSORPTION (A) - Absorption is the process by which a liquid is drawn into and tends ...	1
+absorption	where ) is the wavelength at which absorption occurs due to the vibration; j is the reduced mass,.	0
+absorption	Sometimes, absorption depends on factors such as im- pinging frequency and size of crystals [32].	0
+absorption	"The Absorption is the ""missing piece"", when comparing the total reflected and transmitted energy with the incident energy."	0
+absorption	Drude absorption is caused by indirect intraband optical...	0
+absorption	Vitamin B12 deficiency caused by a lack of intrinsic factor in gastric (stomach) secretions--intrinsic factor is necessary for absorption of vitamin B12.	0
+acceleration	DB2 with BLU Acceleration provides next generation in-memory computing that meets ... BLU Acceleration helps to accelerate queries within these portals.	0
+acceleration	Such acceleration helps to improve cash flow for small businesses, increases liquidity, unlocks capital for the purposes of investment and growth, and increases...	0
+acceleration	If acceleration causes relative time dilation does the eventual deceleration reverse it?	0
+acceleration	As defined by KE =1/2 mv^2, acceleration is the process of gaining kinetic energy, so the greater the power delivered, the quicker it gains kinetic energy.	1
+acceleration	Ominous acceleration occurs due to hypoxic sympathetic stimulation.	0
+acceleration	Thus, acceleration occurs when either the magnitude or direction of the velocity (or both) are...	0
+acceleration	Sep 17, 2010 ... We find that significant non-thermal acceleration occurs due to the growth of oblique whistler waves in the foot of quasi-perpendicular shocks.	0
+acceleration	maximum acceleration occurs when the corresponding speed is 12000 r/min, 19,200 r/min, and 36,600 r/min, respectively.	0
+acceleration	Acceleration occurs due to the application of force to a mass (f=ma,...	1
+acceleration	this acceleration causes inertial forces to occur in the direction perpendicular to the plane of Wall (A).	1
+acceleration	Nov 30, 1992 ... steroids is necessary for acceleration of puberty in immature pigs.	0
+acceleration	Mar 22, 2012 ... Because fast frequency acceleration is caused by temperature acceleration, the extrapolation error may be removed by adjusting the frequency...	0
+acceleration	Acceleration is the process of fast growing and physical development of children, if compared to the previous generations.	0
+acceleration	when a mass on the end of a string is swung in a circle, the inward centripetal acceleration causes an outward centrifugal force on the mass which causes a...	0
+acceleration	Oct 25, 2013 ... ... evidence of another cause, the default conclusion is that sudden acceleration is caused by a defect in the car for which Toyota is responsible.	0
+acceleration	The purpose of acceleration is to place students at the level of ...	0
+acceleration	Instead, ion acceleration occurs due to the build up of electrostatic.	0
+acceleration	The acceleration occurs due to the radiation pressure of proper high power.	0
+acceleration	Jun 17, 2015 ... ... what gives the realistic top speed and acceleration is the low drag coefficient value, the top speed value only make gears longer, what's only...	0
+acceleration	"If what you mean by acceleration is the ""go-faster"" part, that's just the component of the acceleration due to the rocket thrust, which is (4.1 million..."	0
+acceleration	The energy source for the acceleration is the drift energy of the primary electron beam.	0
+accumulation	In the first example, accumulation helps to...	0
+accumulation	VLCFA accumulation causes a lipotoxic response consistent with cALD brain pathology.Mushfiquddin, K., J. Singh, A.	0
+accumulation	Homocysteine accumulation causes a defect in.	0
+accumulation	Oct 12, 2011 ... ... determined if clinically signifi- cant aluminium accumulation occurs when aluminium based phosphate binders are ingested without the con-.	0
+accumulation	Therefore, the nitrite accumulation occurs due to the slow growth of nitrite-oxidizing bacteria.	0
+accumulation	accumulation is the process of building up capital stock through positive net investment.	0
+accumulation	The tests consist of three steps: (1) the main thrust zone is locked and stress accumulation occurs due to plate convergence; (2) a displacement of 4 m is...	0
+accumulation	The charge accumulation occurs due to positive charge of ring current ions.	0
+accumulation	This accumulation occurs due to the formation of dislocation structures during plastic deformation.	0
+accumulation	viously published reports of the ability of fungi to accumulate trehalose in the absence of protein synthesis, but that maximum accumulation occurs when protein.	0
+accumulation	It has been proposed that the actual matter accumulation occurs due to building half-planes forming superfluid edge dislocations.	0
+accumulation	particle shielding may limit the laser ablation efficiency, while heat accumulation causes melting thus preventing the high level of precision achievable at lower...	0
+accumulation	Accumulation occurs when groups acquire knowledge; interaction represents the communication connections between team members; examination consists of...	0
+accumulation	It is important for ... (uncountable) Accumulation is the process of bringing things together.	0
+accumulation	and 3) the maximal rate of amine accumulation occurs when both a ApH and A+ exist across the chromaffin ghost mem- brane, even when the magnitude of the...	0
+accumulation	May 2, 2006 ... described by Tsing: 'Spectacular accumulation occurs when investors speculate on a product that may or may not exist.	0
+accumulation	"Lysophospholipid accumulation is caused by de- creased lysophospholipase activity""; however, the extent of the lysophosphatide increase in the ischemic."	0
+accumulation	or even reverse paludification, especially where peat accumulation is caused by natural succession or where lateral peat expansion has occurred.	0
+accumulation	Fracturing is necessary for accumulation.	0
+accumulation	Formate accumulation is caused by mixed acid fermentation, although no oxygen limitation was measured with the DO electrode.	0
+accumulation	Mar 26, 1984 ... A more striking negative nutritional regulation of RuBPCase accumulation occurs when ethanol is first added after 41 h of greening (Table II).	0
+accumulation	accumulation definition: The definition of accumulation is the gathering and ... (noun) An example of accumulation is the process of gathering up all of the coi...	0
+accumulation	Panel B shows an MPS III cell, in which GAG accumulation occurs due to dysfunction of enzyme E2.	0
+accumulation	that ethanol accumulation occurs when high respira- tion causes oxygen depletion.	0
+accumulation	Inhibition of CXCL8 accumulation is caused by P. gingivalis-derived proteolytic enzymatic activity.	0
+accumulation	Exudative retinal detachment as subretinal fluid accumulation occurs due to chorioretinal eye disease (inflammation, infection, tumor, vascular abnormalities)...	0
+accumulation	Therefore redox probe accumulation occurs due to interaction of its extended pi electrons system and that of carbon particle.	0
+accumulation	Aug 2, 2001 ... accumulation is caused by only about 50% increase in.	0
+accumulation	Mar 24, 2006 ... We propose that MAP8 protein accumulation causes an aberrant microtubule network that interferes with motor protein function leading to...	0
+accumulation	The accumulation is caused by abnormal transport of cystine from lysosomes, resulting in a massive intra-lysosomal cystine accumulation in tissues.	0
+accumulation	correlations suggest that cytochrome aa3 Is necessary for accumulation of streptomycin by B. subtilis.	0
+accumulation	Aug 30, 2011 ... PIP Binding Is Necessary for Accumulation of CMPG1 and AVR3a in.	0
+accumulation	Although deficiencies are rare in developed countries, excess accumulation occurs due to an overabundance of iodine in commercial salt, baked goods (in...	0
+accumulation	Broadly speaking, capital accumulation is the process of increasing production or creation of wealth.	0
+accumulation	Capital accumulation occurs when a company acquires assets.	0
+accumulation	Accumulation occurs when product backs up on the discharge conveyor and onto the accumulation belt.	0
+accumulation	Free radical accumulation occurs due to increased electron transport uncoupling at the active site of endothelial nitric oxide synthase (eNOS), an enzyme...	0
+accumulation	According to this model, this R-loop accumulation causes excessive chromatin decondensation, stalling of the transcriptional machinery, and inhibition of Ube3a...	0
+adaptation	In the paraplegic case, adaptation occurs when patients' attention is withdrawn from their conditions: spinal-cord injury patients are likely to think about their new.	0
+adaptation	devoid of added histidine, adaptation occurs due to the appearance and growth ... a larger inoculum) must be introduced for adaptation to occur under these con...	0
+adaptation	They can be bent to an angle of up to 180 and brought back to their original shape, an ability that is necessary for adaptation inside a living system.	0
+adaptation	They can be bent to an angle of up to 180 degree and brought back to their original shape, an ability that is necessary for adaptation inside a living system.	0
+adaptation	They can be bent to an angle of up to 180 and then restore to their original shape, which is necessary for adaptation inside a living system.	1
+adaptation	Literary adaptation is the adapting of a literary source (e.g.	0
+adaptation	This adaptation occurs due to an explicit client re- quest which can be an...	0
+adaptation	"Students new to the field are sometimes hesitant to adapt their many practices ... Guffey explains that ""adaptation is the process of creating a message that suits..."	0
+adaptation	In ocular physiology, adaptation is the ability of the eye to adjust to various levels of ... A minor mechanism of adaptation is the pupillary light reflex, adjusting the...	0
+adaptation	The recovery rate suggests that cortical adaptation is caused by synaptic depression and slow afterhyperpolarization.	0
+adaptation	Research suggests that the cognitive theory of adaptation helps to explain how individuals adapt to stressful, unexpected, and threatening situations.	0
+adaptation	The guide to spatial adaptation helps to plan your area in a climate proof and water resilient way.	0
+adaptation	Under the simplest assumption that adaptation is caused by depletion of releasable neurotransmitter, the rate of recovery from adaptation,...	0
+adaptation	Schlossberg (1981), adaptation occurs when an individual is able to integrate transition into her life.	1
+adaptation	Adaptation is the process of preparing for and adapting to the impact of these changes on our economy, environment, infrastructure and way of life, in order to...	0
+adaptation	Technological adaptation occurs when people learn how to use the technological tools available and achieve their communication aims despite technological...	0
+adaptation	Apr 16, 2013 ... Keto adaptation occurs when your body is smoothly running on ketones and this adaptive enzymatic process may take several more weeks or...	0
+adaptation	These issues include ..... Cross-media adaptation is the process of transforming the content from one...	0
+adaptation	response adaptation is caused by the activity fatigue of the neuron because the prolonged stimulation may evoke sustained firing and the fatigued neurons...	0
+adaptation	Binaural measurements show that the adaptation process is probably peripheral since no adaptation occurs when the tested ear is contralateral to the adapted...	0
+adaptation	The purpose of adaptation is to better fit the needs of a new population, location, language, or mode, or any combination of these ([6] [7] [10];...	1
+adaptation	Altogether, these results fit together nicely to show that the slow form of light adaptation is caused by desensitization of phototransduction in rods.	0
+adaptation	Repeated Vergence Adaptation Causes the Decline of.	0
+adaptation	Bleaching adaptation is caused by exposure to an adapting light bright enough to bleach a substantial number of visual pigment molecules,...	0
+adaptation	Physical adaptation occurs due to stress, principally to promote an adaptive redirection of energy.	0
+adaptation	Adaptation is caused by viewing a high contrast bar pattern and evidence of reduced sensitivity is provided by viewing a second bar pattern containing larger...	0
+adaptation	model for adaptation is the trigram model described above.	0
+adaptation	Adaptation occurs when charge is transferred through the adaptive element onto or off the storage capacitor.	0
+adaptation	measures is rather low and adaptation is the major concern.	0
+adaptation	Aug 6, 2015 ... Automatic Adaptation to Fast Input Changes in a Time-Invariant ..... a cellular property, using a nonlinearity, as is necessary for adaptation of the...	0
+adaptation	Ketoadaptation is the process of acclimating to using ketones in place of glucose for the majority of fuel for the brain and central nervous system, and it typically...	0
+adaptation	The data so obtained show that chromatic adaptation causes a shift in the location of minimal spectral saturation toward the spectral locus of the adapting light.	0
+adaptation	If de-adaptation occurs due to overtraining it is usually too late to effectively reverse the condition of the athlete.	0
+adaptation	A giraffe's long neck is a trait that can be considered an adaptation.	1
+adaptation	Stems becoming thicker to prevent water loss is a plant adaptation.	1
+adaptation	If you're not already convinced that adaptation is the true birth-right of all human beings, I've got one word for you: wingsuits.	0
+adaptation	Leaves and stems developing tough outer coatings to protect the plant from the environment is a plant adaptation.	1
+adaptation	The purpose of adaptation is to keep the retinal response to...	0
+adaptation	A broad interpretation of adaptation helps to identify how private engagement in adaptation can be maximized at minimal cost.	0
+adaptation	In general, adaptation is the process of responding to change.	1
+adaptation	A nominalisation is a noun form of a verb; if the adaptation is the process (action) and the adaption the result, then adaption would have to be a nominalisation of...	0
+adaptation	Roots growing longer to reach the water supply is a plant adaptation.	1
+asexual reproduction	Asexual reproduction is the most common means of replication by protozoans.	1
+asexual reproduction	Asexual reproduction occurs when an organism makes a copy of itself without undergoing meiosis and fertilization.	1
+asexual reproduction	While new cultivars of irises are developed by means of sexual propagation, asexual reproduction helps to replicate the plants enabling several gardeners to...	0
+asexual reproduction	The asexual reproduction is the fastest reproductive method of this organism to colonize a given environment.	0
+asexual reproduction	Asexual reproduction occurs when a single plant...	0
+asexual reproduction	other hand, asexual reproduction is the biologi- cal process whereby an organism creates a genetic copy of itself without using any foreign genetic material.	1
+asexual reproduction	Another kind of asexual reproduction is the pro- duction of various kinds of spores.	1
+asexual reproduction	Structures called spores reproduce the fungus in the form of mycelium or yeast ... Asexual reproduction occurs when a part of an individual regenerates itself into...	1
+asexual reproduction	plement that asexual reproduction is the more interesting choice due to that it closer to how bacteria reproduce in nature.	0
+asexual reproduction	Mar 28, 2015 ... Asexual reproduction occurs when an organism reproduces by itself.	1
+asexual reproduction	The other means of asexual reproduction occurs when a plantlet or keiki begins to sprout...	1
+attracts	blog attracts helps to push your blog higher in rank on search engines.	0
+attracts	A magnet is an object that attracts metals.	1
+attracts	the externally acting indirect powerthat power which attracts causesis known as En-in.	0
+boiling	Boiling is the hottest of the three techniques (212 F).	0
+boiling	"This axial length over which boiling occurs when the bulk liquid is subcooled is called the ""subcooled boiling"" length."	0
+boiling	Flow boiling occurs when all the phases are in bulk flow together in a channel; e.g., vapor and liquid flow in a pipe.	0
+boiling	Boiling causes pectins to set, which creates a permanently hazy beverage.	0
+boiling	Apr 11, 2011 ... Boiling occurs when vapor pressure = atmospheric pressure.	0
+boiling	Flash boiling occurs when the pressure of liquid drops instantly below the saturation pressure.	1
+boiling	PS: for vegetables, quickly immersing them in ice-cold water after boiling helps to retain the bright color (although I don't know why).	0
+boiling	Boiling is the process of transforming water into steam.	1
+boiling	Particular attention will be given to the process of the creation of ... falls below the vapor pressure, while boiling is the process of nucleation that...	0
+boiling	"Flash boiling occurs when the pressure of a liquid suddenly drops below it"" saturation pressure, causing the liquid to vaporize."	1
+boiling	The boiling helps to break up the cells in the preparation, and denatures proteins.	1
+boiling	May 3, 2012 ... **Boiling causes foods to become more tender.	0
+boiling	The purpose of boiling is to maintain the aroma of foods, make their digestion easier and be safe in terms of their nutritional value.	0
+boiling	A:If you are using chlorinated municipal water boiling helps to reduce the amount of chlorine present in the water.	0
+boiling	Mar 28, 2013 ... Boiling is the process of water changing from its liquid form to its gaseous form through heat gain.	1
+boiling	The boiling helps to get the membrane off the shell and kills any pathogens.	0
+boiling	I personally believe the boiling helps to release, or breakdown some of the nutrients in the mix.	0
+boiling	Boiling helps to en- hance the colour and the shelf life of t:urmeric.	0
+boiling	Boiling occurs when the pressure above a liquid becomes equal to or less then the vapour pressure of the liquid.	1
+boiling	The phase change process ensures better temperature uniformity and ...... Boiling is the process of transforming liquid into vapor through the addition of heat.	1
+boiling	Feb 1, 2011 ... More active nucleate boiling causes dry-patches to appear earlier.	0
+boiling	Feb 15, 2013 ... Boiling is the process of rapidly converting a liquid to its gaseous (vapor) state, typically by heating the liquid to a temperature called its boiling...	1
+boiling	Boiling is the formation of vapor bubbles at the heating surface.	1
+boiling	Boiling occurs when saturation pressure exceeds the confining pressure of a system.	1
+boiling	At least one cooking pot is necessary for boiling water.	1
+boiling	This boiling causes the air inside to be forced out and replaced with hot water vapor.	1
+boiling	The boiling is caused by the relationship between the temperature and pressure of a gas.	1
+boiling	Aug 4, 1997 ... Flow boiling occurs when all the phases are in bulk flow together in a channel; e.g., vapor and liquid flow in a pipe.	1
+boiling	Subcooled boiling is the process of vapor...	0
+boiling	ing to transition boiling occurs due to larger drop of surface temperature which is caused by liquid- solid contacts for coated surface than for uncoated one.	0
+boiling	Key difference: Boiling is the process of bringing water to its boiling point, boiling for 3-5 minutes or more to kill any bacteria, viruses and germs present in the...	0
+boiling	It has been found that the high heat transfer rate in nucleate boiling is caused by the formation and transportation of vapour bubbles.	1
+boiling	Boiling helps to kill a great deal of the bacteria that is found in lakes and rivers.	0
+boiling	The boiling causes the leather to become harder but also more brittle.	0
+breathe	Attention on breathe is the way to pure consciousness.	0
+breathe	Breathe is the clinical educational publication from the European Respiratory Society.	0
+breathe	We breathe faster and begin to sweat.	1
+breathe	Plants provide animals with food and gases (oxygen) that their bodies need to grow, breathe, and make energy.	1
+breathe	All animals grow, take in nutrients, breathe, reproduce, eliminate waste, and die.	1
+breathe	The purpose of Breathe is to revive the pride that holds our creations to a higher standard.	0
+breathing	The incidence of sleep disordered breathing (SDB) in this population has ... the upper airway is necessary for breathing control during sleep.	0
+breathing	Proper filtration is necessary for breathing air purposes.	0
+breathing	The features are great - obviously having the rate of breathing is the biggest draw but it is nice to have the movement monitor, noise activated speaker, the ability...	0
+breathing	Deep breathing occurs when the body is in a state of relaxation.	1
+breathing	May 31, 2013 ... holding-breath ... might be surprising to some given that the purpose of breathing is to provide our bodies with the oxygen it needs to survive.	1
+breathing	The purpose of breathing is to provide a way for the body to receive fresh oxygen in exchange for the carbon dioxide and other waste gases that the cells of the...	1
+breathing	High-Altitude Periodic Breathing is caused by sleeping at altitudes higher than about 15,000 feet.	0
+breathing	Breathing occurs due to repeated contractions of a large muscle called the diaphragm.	1
+breathing	tion, a small amount of vessel breathing occurs due to temperature redistribution, which causes inert gas and helium to mix at an ;80:20 ratio in the reactor and...	0
+breathing	Flow limited tidal breathing occurs when expiratory flow in tidal breathing cannot be increased by increasing expiratory effort, or increasing the squeeze...	0
+breathing	It is as if, through this frequency increase, the cosmic plan is now ...... Spherical Breathing is the process of taking energy in directly through the...	0
+breathing	Deep breathing is the process of slow inhalation followed by slow and complete exhalation.	0
+breathing	Belly breathing is the most efficient method.	0
+breathing	All living things do some type of breathing.	1
+breathing	The next step in fire breathing is the spark.	0
+breathing	Shallow breathing occurs due to a lack of breathing.	0
+breathing	Growth, taking in nutrients, breathing, and reproduction are the life processes of all living things.	1
+breathing	This method of breathing helps to keep your air sacs open longer so that air is not trapped in your lungs.	1
+breathing	Breathing occurs due to geometry changes about the three-coordinate AgI metal centers, leading to a multi-step guest adsorption.	0
+breathing	We do this by breathing.	1
+breathing	Obstructive sleep-disordered breathing occurs due to a variety of factors, such as paranasal sinus disease, tonsil and adenoid hypertrophy, hypertrophy and...	0
+breathing	Circular breathing is the process of inhaling through your nose while playing a woodwind instrument in order to enable continuous sound without a pause for...	1
+breathing	Breathing is the process of drawing air into the lungs and then expelling it again.	1
+breathing	Mar 7, 2013 ... Circular breathing occurs when you breathe in through your nose and out through your mouth at the same time.	1
+breathing	the work of breathing occurs due to increased rigidity of the conducting tubules, changes in smooth muscle structure, and increased thickness of the mucosal...	0
+breathing	Being very short of breath is not usually dangerous or harmful but it can make you feel .... Abdominal breathing helps to expand your lungs fully.	0
+build	As humans build homes, stores, and communities, they displace the animals that live in those areas.	1
+build	Aug 10, 2005 ... A clean build occurs when your output area is empty, in this case you build everything from its (version controlled) sources.	0
+build	Humans use wood to build homes, which comes from trees.	1
+build	As humans construct new homes and buildings they change the landscape of the nonliving environment.	1
+build	Nonprofit leaders serve others, and help build causes.	0
+build	These behaviors may include: nest building, hibernating, hunting, migrating, and communicating.	1
+camouflage	Camouflage causes missed detections for any change detec- tion algorithm.	1
+camouflage	Skin camouflage and scar camouflage is the process of tattooing the skin...	1
+camouflage	Skin camouflage is the process of correcting...	0
+camouflage	The purpose of camouflage is to break up the human outline and allow the hunter to become visually indistinguishable from his surroundings.	1
+camouflage	The purpose of camouflage is to remain undetected when stalking or hiding, but...	1
+camouflage	Oct 7, 2006 ... ... because it has no known chemical defences and camouflage is the anti-predator defence most commonly assumed for the family Thyatiridae.	1
+camouflage	This combination of color and camouflage is the perfect mix for deer hunting, effectively revealing hunters to other humans while concealing them from he color...	1
+camouflage	Social camouflage is the process of deception amongst humans.	0
+camouflage	The purpose of camouflage is to reduce the odds that someone will...	0
+camouflage	Camouflage is the use of any combination of materials, coloration, or illumination for concealment, either by making animals or objects hard to see (crypsis),...	1
+camouflage	This point is an important one, because it is not the purpose of camouflage and concealment to persuade the enemy; rather, the purpose of camouflage is to...	1
+camouflage	The purpose of camouflage is to provide concealment.	1
+carbon cycle	The carbon cycle occurs when the carbon atoms are recycled over and over...	1
+carbon cycle	carbon cycle causes a positive climate-carbon cycle feedback effect and ... simulate historical changes in the global carbon cycle (e.g.	1
+carbon cycle	The carbon cycle is the process of carbon...	1
+carbon cycle	The carbon cycle is the exchange of carbon between all of the...	1
+carbon cycle	The carbon cycle is the term used to describe the ways in which carbon moves between them, and the proportion of carbon stored in each component.	1
+carbon cycle	The carbon cycle is the biogeochemical cycle by which carbon is exchanged between the biosphere, geosphere, hydrosphere and atmosphere of the Earth.	1
+carbon cycle	Multiple evidences are presented that the ~21O-yr cosmogenic radiocarbon cycle is caused by heliomagnetic modulation of the cosmic ray flux.	0
+carbon cycle	The carbon cycle occurs when carbon dioxide (CO2) is fixed into organic form through the process of photosynthesis.	1
+carbon cycle	The carbon cycle is the circulation and transformation of carbon back and forth between living things and the environment.	1
+carbon cycle	The carbon cycle is the largest contributor to anthropogenic climate change, yet despite...	0
+carbon cycle	While our understanding .... further assumed that the carbon cycle is the process of energy generation.	1
+change	Researchers Show How Specific Gene Change Causes S... What the New Education Buzzwords Actually Mean  10 Tips to Get You Ready for...	0
+change	Sep 21, 2009 ... Steven Ott suggested in 2008 that organizational change is the process of people making relatively permanent alterations in their behavior as a...	0
+change	Sep 10, 2014 ... Behaviour change depends on factors such as the individual's motivation to change, culture, available resources, organizational issues, and...	0
+change	An unsafe lane change occurs when the motorist does any of the following: Fails to signal before making the turn; Fails to see a fast approaching car in a parallel...	0
+change	A negative body fat composition change occurs when we lose the same or a larger percentage of lean weight to fat weight.	0
+change	Jan 19, 2009 ... ... get from others is the false notion that climate change is caused by man.	0
+change	As we've already established, climate change occurs when the factors that influence it changes.	0
+change	In a chemical reaction, there is a change in the composition of the ... A chemical change occurs when the substance's composition is changed.	0
+change	In the latter, a crystallographic phase change occurs due to intense deformation, heat evolution...	0
+change	Mechanical energy changes to heat in bicycle brakes.	1
+change	Harm to the environment can be caused when animals are displaced and the landscape is changed; water runoff, pollution, and so on.	1
+change	As the Earth revolves around the sun, its position changes and the amount of sunlight received by Earth also changes.	1
+change	When animals move to a warmer climate to avoid the change in seasons, we call this migration.	1
+change	We have seen how we can change a physical property of the paper, but still have it remain as paper.	1
+change	The first change occurs due to intercalation of octadecylammonium chloride molecules into the empty spaces of tetrahedral silicate layers.	0
+change	When liquid water changes to water vapor it is called evaporation.	1
+change	As humans construct new homes and buildings they change the landscape of the nonliving environment.	1
+change	such designs comes from demonstrating that change occurs when, and only when, the inter- vention is directed at the behavior, setting, or subject in question.	0
+change	Each phase change that water goes through has a specific name.	1
+change	A line graph shows the change in information between two variables.	1
+change	One way to change the paper would be to burn it.	1
+change	The force of waves breaking on beaches and cliffs can also change landforms.	1
+change	Other animals change their amount of body fat with the seasons.	1
+change	This can change the air quality and lead to pollution.	1
+change	An example of a physical change is the process of tempering steel to form a knife blade.	0
+change	Mechanical energy changes to sound energy by clapping your hands together.	1
+change	Tadpoles change into frogs, caterpillars change into butterflies, and mealworms turn into beetles.	1
+change	Nov 4, 2008 ... climatic change depends on factors such as elevation, area, substrate, and proximity to large drainage catchments.	0
+change	Jan 29, 2015 ... IPCC 95% sure climate change is caused by humans  Study confirms IPCC's 95% certainty on man made climate change  Almost unanimous:...	0
+change	Briefly stated, it is this: that change occurs when one becomes what he is, not when he tries to become what he is not.	0
+change	When water vapor changes to liquid water it is called condensation.	1
+change	Heat changes to sound in a tea kettle.	1
+change	As the physical environment changes over time, plants and animals change and so do the relationships within the ecosystem.	1
+change	Some plants and animals are able to survive the changes while others may not.	1
+change	Mar 24, 2015 ... Portraying anyone who exposes the Democrat's fraud; that climate change is caused by man's pollution as deniers who don't believe in...	0
+change	The changes frogs and butterflies go through are called metamorphosis.	1
+change	Magnetic energy changes to mechanical energy in a magnetic door latch.	1
+change	Behavior is the way that organisms respond to changes in their environment or to a stimulus.	1
+change	Davidson first observes that change is just shorthand for change of predicate, in that a change occurs when and only when a predicate that is true (false) of some...	0
+change	An example of a plant responding to a change in its environment is leaves falling off trees in fall.	1
+change	Individual organisms and species change over long periods of time.	1
+change	detection of change is the process of demonstrating that an observed change in climate is highly unusual in a statistical sense, but does not provide a reason for...	0
+change	Humans have also changed the environment by cultivating (growing) crops and raising animals.	1
+change	and that most conformational change occurs due to aggregation of CTXheparin complex.	0
+change	A population's vulnerability to climate change depends on factors such as population density and age distribution, economic development, food availability,...	0
+change	Feb 4, 2008 ... use change occurs due to urbanization (building up and paving over undeveloped areas) along a city boundary, urban sprawl increases [2].	0
+change	The ashes are chemically different from the paper so this is considered a chemical change.	1
+change	Physical changes are those that involve changing one or more of the physical properties of matter.	1
+change	Arnold Beisser  'Change occurs when one becomes what he is, not when he tries to become what he is not.'	0
+change	change occurs due to redistribution of the water mole- cules among those states as the temperature changes.	0
+change	The direction and degree of attitudinal change depends on factors such as specific experiences, prior attitudes,...	0
+change	What change occurs when a substance reacts and forms one or more new substances?	0
+change	Heat changes to light in a flame.	1
+change	A force can also be used to change the direction that an object is moving.	1
+change	How can we change the paper in order to give it different properties but still consider it to be paper?	1
+change	Mechanical energy changes to sound in a piano.	1
+change	Evaporation is defined as the change of water from its liquid phase to its gaseous phase.	1
+change	Change occurs when one given state becomes something contrary to it: that is to say, what exists potentially comes to exist actually.	0
+change	Electrical energy changes to sound in a radio speaker.	1
+change	Some offspring are born as one form and change over time into an adult form.	1
+change	These changes (adaptations) depend on the environment.	1
+change	Light changes to electrical energy in solar path lights.	1
+change	All animals need to sense their surroundings, respond to environmental changes, know where and how to find food, care for their young, and many other things.	1
+change	Social change is the process of shifting attitudes, values, and actions to address social problems in a positive way.	0
+change	Organisational change is the process of moving from established to new ways of thinking, behaving or working.	0
+change	The capacity to adapt to climate change depends on factors such as wealth, technology, education, information, skills, infrastructure, access to...	0
+change	Condensation is defined as the phase change from gas (vapor) to liquid.	1
+chemical change	Melting of ice is a physical change, not a chemical change.	1
+chemical change	Just as we can describe physical and chemical properties of matter we can describe the physical and chemical changes to matter.	1
+chemical change	A chemical change occurs when a substance reacts with another...	1
+chemical change	As such, a key distinction between nuclear vs chemical change is the energy.	0
+chemical change	An Electrolytic Cell is one in which a physical or chemical change is caused by electrical energy applied from some external source.	1
+chemical change	The catalyst structure is the same at the start and the end of the reaction, but the permanent chemical change is the reactant substrate molecule changing into...	1
+chemical change	A chemical change occurs when asubstance changes into a different substance.	1
+chemical change	Chemical change is the grems and bacteria on the raw turkey dissolving.	1
+chemical change	The chemical change is the chemical produced when the copper is melted.	1
+chemical change	A chemical change occurs when there is a change in the arrangement of the atoms involved so a different substance with different properties is produced.	1
+chemical change	May 4, 2010 ... An example of a chemical change is the reaction between sodium hydroxide and hydrogen chloride to produce sodium chloride, or table salt.	1
+chemical change	The criterion for a chemical change is the production of one or more new substances.	1
+chemical change	An example of chemical change is the fireworks explosion.	1
+chemical reaction	A chemical reaction is the process of transforming chemical substances into new substances.	1
+chemical reaction	The sun's rays fuel the making of carbohydrates which through a chemical reaction causes photosynthesis to occur in the plant.	1
+chemical reaction	The required information for modeling the chemical reaction is the reaction rate equation.	1
+chemical reaction	A chemical reaction is the process of...	0
+chemical reaction	chemical reaction occurs due to the enlarged contact area between phases.	1
+chemical reaction	A chemical reaction is the process of a system going from one stable state to another stable state.	0
+chemical reaction	A chemical reaction is the process of a system going from one stable state to another stable state.	0
+chemical reaction	A good way to think about a chemical reaction is the process of baking cookies.	0
+chemical reaction	For an organic reaction, there is no point in having a. Worded Title: The chemical reaction is the best title summary of what you did!	0
+chemical reaction	Chemical reaction is the process of transforming a substance into one or more new...	1
+chemical reaction	Jul 12, 2012 ... For other pressure vessels such as reactors, where a chemical reaction is caused by causing the internal pressure of the vessel to be high, the...	1
+chemical reaction	If a chemical reaction is caused by an external voltage, or if a voltage is caused by a chemical reaction, as in a Battery (electricity), it is an electrochemical...	1
+chemical reaction	Batteries, biomass ... Chemical reaction causes that.	0
+chemical reaction	The simplest example of a chemical reaction is the irre- versible isomerization reaction.	1
+chemical reaction	From a database of frequently asked questions from the Chemical change section of ... What kind of a chemical reaction occurs when acetic acid (vinegar) and...	0
+chemical reaction	Chemical reactions occur because different types of molecules interact with ... a chemical reaction occurs due to the breaking of old bonds and the forming of...	1
+chemical reaction	The second reason why energy is essential is that it is necessary for chemical reactions to occur.	1
+chemical reaction	Chemical energy is energy that is released when a chemical reaction takes place.	1
+chemical reaction	Chemical reaction occurs when a chemical change takes place; Anytime you have a new substance formed; Burning paper is a result of a chemical reaction...	1
+chemical reaction	A chemical reaction is the process by which substances...	0
+chemosynthesis	Chemosynthesis is the biological conversion of one or more carbon molecules (usually carbon dioxide or methane) and nutrients into organic matter using the...	1
+chemosynthesis	Chemosynthesis is the process of converting inorganic material into food using chemical energy.	1
+chemosynthesis	chemosynthesis is the process by which an organism forms carbohydrates using chemicals rather than light, as an energy source and photosynthesis is the...	1
+circulation	Jul 10, 2010 ... circulation is caused by an equatorward shift of Rossby wave critical latitudes and EliassenPalm flux convergence in the subtropical lower...	0
+circulation	The overall circulation is caused by higher latitudes having lesser velocities along a latitude line than ones closer to the equator.	1
+circulation	The heart is necessary for circulation of blood in the body.	1
+circulation	Your poor blood circulation causes numbness in your hands and feet, changes in vision, slow-healing wounds and frequent infections.	1
+circulation	According to Medical Online, Poor circulation occurs when the flow of blood through ...	1
+circulation	Not visible in this figure but an important aspect of the general circulation is the zonal wind field, which is also considered in this study.	0
+circulation	Lowered blood circulation causes red blood cells amount to decrease significantly.	1
+circulation	The Walker circulation is caused by the pressure gradient force that results from a high pressure system over the eastern Pacific ocean, and a low pressure...	0
+circulation	Pulmonary circulation is the process of blood flowing between the heart and lungs to allow for gas exchange.	1
+circulation	Coronary circulation is the circulation of blood in the blood vessels of the heart muscle (myocardium).	1
+circulation	cliffs and river mouths, and circulation occurs due to compensation for this out- ward flow by the landward flow of deeper, more saline water.	0
+circulation	blood circulation occurs due to traumatic nasotracheal intubation and is more likely to occur in patients with poor oral hygiene and extensive dental procedures...	0
+circulation	Cerebral circulation is the movement of blood through the network of blood vessels supplying the brain.	1
+circulation	Feb 13, 2014 ... C. Circulation extends from the surface to 2500 m. D. The circulation is caused by icebergs.	0
+circulation	In vertical thermosyphon reboiler, the liquid circulation occurs due to density difference between vapor-liquid mixture (two phase) in the exchanger from the...	0
+circulation	Circulation is the process of drawing water from the pool through the suction line and forcing water back to the pool through the filter and pressure/return line.	1
+circulation	particular isoenzymes into the circulation occurs due to damage to a specific tissue or organ, an isoenzyme determination can often pinpoint the site of injury.	0
+circulation	Collateral circulation occurs when existing, minor blood vessels that are normally closed open up to reroute blood flow from the coronary artery around the...	1
+circulation	Circulation is the process of drawing water from the pool through the suction line and forcing water back to the pool through the filter and pressure/return line.	0
+circulation	Mar 29, 2011 ... Poor leg circulation is caused by peripheral artery disease, a condition in which the arteries in your legs become narrowed or even blocked...	1
+circulation	Sometimes the poor, slow circulation causes blockage in a blood vessel.	1
+circulation	Healthy circulation occurs when your blood flows smoothly.	1
+circulation	The same upstream flow and re-circulation occurs when you place an object near the wall of a wind tunnel or a rock near the shore of a river.	0
+circulation	In the work of Anderson, Habermas, and Taylor, the critical context and dialectical partner of cultures of circulation is the modern capitalist nation-state.	0
+circulation	concluded that the mean circulation is caused by these winds and affected by the topography of the surrounding land.	0
+circulation	During cryosurgery, progressive failure of microcirculation occurs due to a cascade of events: endothelial layer...	0
+circulation	the increased circulation helps to increase blood circulation to the brain and deliver a...	1
+circulation	mum, the vertical circulation is caused by opposing longitudinal gradients in density that meet at the loca- tion of the minimum.	0
+classify	It is useful to classify causes of calving into first, second, and third order processes.	0
+classifying	Some problems in classifying causes can be seen in a study aiming to manipulate consumers' perceptions of locus of causality.	0
+classifying	These have differing categories for classifying causes, numerous definitions for relevant conditions, and varying levels of complexity.	0
+combustion	Oxy-Fuel Combustion is the process of burning coals using oxygen instead of air to discharge most exhaust gases as carbon dioxide, thus maximizing the...	1
+combustion	Oxy-fuel combustion is the process of burning a fuel using pure oxygen instead of air as the primary oxidant.	1
+combustion	The chemical element oxygen is necessary for combustion to occur.	1
+combustion	Oxy-fuel combustion is the process of burning a fuel using pure oxygen instead of air as ... contribute to the combustion process, it introduces a major source of...	1
+combustion	In the most basic definition, combustion is the process of burning something.	1
+combustion	Today's conventional internal combustion engine uses only air as it is necessary for combustion process.	1
+combustion	The key discriminating technology of combustion is the generation and control of pollutant emissions - In particular NOx, particulate matter, un-burned...	0
+combustion	Sep 25, 2014 ... Knowing how the characteristics of these three phases of combustion helps to design fun and practical applications for Brown's Gas.	0
+combustion	combustion occurs due to combustion of gaseous fuel air charge, which is associated with lower rates of the exothermic combustion reactions result in lower...	0
+combustion	A correct classification of abnormal combustion helps to identify all these parameters.	0
+combustion	With low levels of hydrogen, the premixed nature of the combustion helps to promote complete combustion.	0
+combustion	Combustion occurs due to auto-ignition of the mixture at multiple points inside the ... is faster than that of conventional diesel combustion because it occurs.	0
+combustion	Abnormal combustion occurs when part of the fuel/air mixture ignites spontaneously and burns very rapidly, causing the pressure to rise suddenly.	1
+combustion	The utilities, chemical process, pulp and ... layer, by passing the metal through a molten bath of zinc at ... Oxy-fuel combustion is the process of burning a fuel.	1
+combustion	Oxy combustion is the process of burning a fuel using pure oxygen instead of air as the primary oxidant.	1
+combustion	May 24, 2013 ... Oxy-fuel combustion is the process of burning a fuel using a mix of oxygen and flue gas instead of air.	1
+combustion	Jan 22, 1980 ... combustion occurs due to stopping fuel supply.	1
+combustion	Combustion is caused by a reaction between two chemicals, which is set off...	1
+combustion	combustion occurs due to the incomplete oxidation of CO and therefore the inclusion of.	1
+combustion	sustaining combustion occurs due to irradiation and collisions of the particles.	1
+combustion	Oxy-fuel combustion is the process of burning a fuel using pure oxygen instead of air as the primary oxidant.	1
+combustion	In situ combustion is the process of injecting air into a reservoir to oxidize a small portion of the hydrocarbons present, to generate heat and pressure.	1
+combustion	When a substance burns in air, combustion is the process of reacting a substance with oxygen.	1
+combustion	Combustion helps to improve efficiency and power.	1
+combustion	Preignition: This type of abnormal combustion occurs when stale fuel mixture is ignited by an unintended source prior to spark plug firing.	1
+combustion	In this study, in order to determine the conditions by which spontaneous combustion occurs due to long stays of coals under natural weather...	1
+combustion	Aug 14, 2013 ... Oxidation firing is a process where complete and perfect combustion occurs when sufficient oxygen is supplied, converting all the fuel into...	1
+combustion	Complete combustion occurs when excess oxygen is present; this type of reaction produces carbon dioxide and water.	1
+combustion	Incomplete combustion occurs when the oxygen supply is limited.	1
+combustion	Combustion is the process of burning something.	1
+condensation	Condensation is the process of a substance in a gaseous state transforming into a liquid state.	1
+condensation	Condensation is the process of water vapor changing back into liquid water.	1
+condensation	Condensation is the word used to describe what occurs when water vapour in the air is changed into liquid water on a cool surface.	1
+condensation	Interior window condensation is caused by excessive moisture in the house, and it often occurs in the winter when the warm air inside the...	1
+condensation	Many new installations get condensation across the bottom of the units and probably more so in the bedrooms , condensation is caused by the water in the.	0
+condensation	Most often, window condensation is caused by excessively moist conditions in the home.	1
+condensation	Condensation is the tenant's responsibility.	0
+condensation	NOTE: Excess condensation is caused by extreme conditions.	0
+condensation	Another issue which may be raised in the context of -particle condensation is the question, also discussed in condensed matter physics [47], whether 's...	0
+condensation	groups on the base and would seem to indicate that replacement of the bridge chlorine atoms by a co- ordinating base is necessary for condensation to occur.	0
+condensation	As the sun interacts ... Condensation is the process of a gas changing to a liquid.	1
+condensation	Freezing a liquid to a ... Condensation is the process of a gas turning into a liquid, and evaporation i...	1
+condensation	A self-consistent picture emerges in which below the magnetic transition carrier condensation occurs due to the opening of spin density wave (SDW) gap.	0
+condensation	The criterion for dropwise condensation is the critical surface tension  cr which is characteristics of the 602 Advanced Heat and Mass Transfer Amir Faghri,...	0
+condensation	Finally, some students may not recognize that cooling is necessary for condensation.	1
+condensation	Apr 7, 2009 ... our approach condensation occurs due to an instability of the.	0
+condensation	Condensation is the dampness formed when air laden with moisture is cooled by contact with a cold surface.	1
+condensation	Condensation occurs due to appearance of a normal mode, precisely analogous to the Cooperon in a superconductor. '	1
+condensation	Oct 17, 2012 ... Warm-front condensation occurs when warm, damp air gets into a cold house.	1
+condensation	Condensation occurs when warmer moist air comes in contact with cold surfaces such as framing members, windows and other accessories, or the colder region...	1
+condensation	When water vapor changes to liquid water it is called condensation.	1
+condensation	The most frequently used method of preventing condensation is the installation of a vapor retarder on the warm side of the wall.	1
+condensation	Condensation is the process by which vapor changes back into a...	1
+condensation	In this case, condensation occurs due to lower free energy of the condensed state caused by higher number of bound ligands (per base pair, cs < cc) for any...	1
+condensation	Condensation is the process of going from gas to liquid.	1
+condensation	To know that condensation is the process of gas cooling to form a liquid.	1
+condensation	Water vapor condenses into a liquid after making contact with the surface of a ... Water is the product of its vapor condensationcondensation is the process of...	1
+condensation	The enzyme is necessary for condensation shortly before the first meiotic division but not for early...	0
+condensation	in this booklet to help you identify and reduce condensation as well as ... Condensation is caused by water vapour or moisture from inside the home coming into.	1
+condensation	Compared to particles formed by traditional inert gas condensation methods .... Condensation is the process of cluster growth via collisions with vapor phase...	1
+condensation	Condensation occurs when saturated air moves upward.	1
+condensation	On the contrary, upon the Sun the temperature is so high that it can decrease to what is necessary for condensation of vapor only at a height where the density of...	1
+condensation	This could be a good decision if the majority of the condensation is caused by the glass and not by the window frame.	1
+condensation	Oct 15, 2013 ... OTOH, if the release of the heat of condensation is the primary driver, they should expand.	1
+condensation	Bose-Einstein condensation occurs due to a conserved current associated with the bosons.	0
+condensation	Condensation occurs due to repeated heating and cooling cycles (induced by the motor cycling on and off) substantial amounts of water can accumulate in the...	1
+condense	that it is necessary for condensed tannins to have a proportion of polymeric chains to act with optimum efficiency, which may explain the general predominance...	0
+condense	Clouds form when water in the atmosphere condenses on dust particles suspended in the air.	1
+conduction	In heat transfer, gaseous conduction occurs when gas molecules collide and transfer their kinetic energy.	1
+conduction	May 30, 2014 ... physiological homeostasis describes the complete process in which the ... Conduction is the process of heat-transfer directly from a place of...	1
+conduction	Conduction helps to keep a fire going by transferring heat energy...	1
+conduction	rotation is necessary for conduction of acoustic vibrations absorbed by the arista into the JO (49), sal- and salr-null antennae have conductive hearing defects.	0
+conduction	world economy is necessary for conduction of more intensive reconstruction to increase Russian economy.	0
+conduction	Through conduction, energy is transferred from atom to atom by direct contact; at the edges of a compost pile, conduction causes heat loss to the surrounding air...	1
+conduction	caused some lateral scraping, is necessary for conduction to be measured.	0
+conduction	Heat conduction helps to stabilize this instability.	0
+conduction	Conduction is the process of heat transfer.	1
+conduction	Jul 2, 2010 ... Heat conduction is the process of heat transfer across a stationary medium, either solid or fluid.	1
+conduction	Conduction is the process by which heat moves directly into the molecules of cooler objects in contact with its surface.	1
+conduction	The electrical conduction is caused by the hopping of itinerant electrons with the minority spin from Fe2+ to...	0
+conduction	Heart block is a disturbance of impulse conduction occurs due to Ischemic injury in ... sociated with intraventricular conduction block,while inferior wall MI is...	0
+conduction	Jan 20, 2011 ... ... been hypothesised that immune-mediated reversible conduction is caused by involvement of either paranodal myelin or the nodal axolemma...	0
+conduction	Structural characteristics, electrical conduction and dielectric properties of gadolinium ...... plots if the conduction occurs due to small polar hopping in local-.	0
+conduction	the heat conduction is the phonon-lattice interaction, there- fore, the heat conduction obeys the Fourier heat law, but the heat flux is bigger than in the standard...	1
+conduction	Heat conduction helps to cook this meat.	1
+conduction	Conduction occurs when two things that have different temperatures come into contact with each other.	1
+conduction	Thus, at least some small degree of compensation is necessary for conduction at low temperature.	0
+conduction	Jun 1, 2011 ... Conduction is the ADDICTIVE puzzle game that's easy to pick up and play but impossible to put down.	0
+conduction	An increased velocity of nerve conduction helps to facilitate body movement.	0
+conduction	and if the line of block or slow conduction is the TT, then when a catheter is placed in front of the TT, in sinus rhythm, there will be delayed activation of this site...	0
+conduction	In metallic conductors, the conduction occurs due to the movement of electrons under the influence of applied electrical potential.	1
+conduction	Nerve conduction is the process of transmitting signals, allowing...	0
+conduction	Feb 14, 2014 ... At present, the most widely accepted mechanism about the grain boundary conduction is the space charge model [11].	0
+conduction	Conduction is the process of heat flow from molecule to molecule in a solid substance.	1
+conservation	The purpose of conservation is to care for places of cultural heritage value, ... Indigenous conservation precepts are fluid and take account of the continuity of life...	0
+conservation	Water conservation occurs due to the interception of water by trees.	1
+conservation	Water conservation is the most cost-effective and environmentally-sound way to reduce our demand for water.	1
+conservation	In addition there are numerous independent nonprofit organizations that also promote various wildlife conservation causes.	1
+conservation	Conservation is the process of repairing damaged material using acceptable ... Conservation treatment is performed using materials and methods that are...	1
+conservation	Soil conservation is the best way to make sure that we have the land we need to live on or, in my case, live in.	1
+conservation	wild life conservation is caused by humans that want more territory.	1
+conservation	ERP Conservation is the impact investment arm of groupelephant.com, which is characterised by a primary strategic imperative in terms of which for the first time...	0
+conservation	Ecology is necessary for conservation and resource management, but it is not sufficient.	1
+conservation	And while these do have to take a plane trip to get to us, our support for ocean conservation helps to offset some of our concerns about that.	0
+conservation	In-situ conservation helps to conserve millions of species through the protection of natural areas and is the primary means for the maintenance of these...	1
+conservation	Jul 7, 2015 ... Eco Games Solutions Inc. is committed to making an impact by contributing to whale conservation causes.	0
+conservation	Feb 25, 2015 ... Worldwide collaboration and understanding is necessary for conservation and recovery of ecosystems, as nature has no boundaries.	0
+conservation	This national society has numerous local chapters, and works to help various conservation causes.	0
+conservation	A systems approach to energy conservation occurs when lucrative efficiency projects are.	0
+conservation	The purpose of conservation is to maintain a property's the heritage value through its character-defining elements.	0
+conservation	Conservation is the process of reducing demand on a limited supply and enabling that supply to begin to rebuild itself.	0
+conservation	It focused on how conservation helps to retain or recover and then communicate the messages that East Asian art and heritage carry, and addressed how the...	0
+conservation	Jul 19, 2015 ... Renewable energy conservation is the process of conserving energy by using energy sources that can be replenished.	1
+conservation	To be more technical conservation is the...	0
+conservation	that conservation occurs when adaptation would be re- quired?	0
+conservation	The trigger for starting Stage 2 conservation occurs when local water demand exceeds the City's water supply capacity by greater than 3 MGD (Million Gallons	0
+conservation	Jul 24, 2015 ... Below, Chester Zoo's head of field programmes, Scott Wilson, highlights six crucial conservation causes in the region.	0
+contour plowing	Contour plowing is the farming practice of plowing across a slopefollowing its elevation contour lines.	1
+contour plowing	Apr 6, 2015 ... ... as much in the horizontal plane as possibleas possible Contour plowing is the single most effective method for reducingContour plowing is...	1
+convection	Convection occurs when heat is transferred by the movement of liquids or gases.	1
+convection	May 23, 2000 ... As in nature, convection occurs when and where the atmosphere is unstable and the convection drives the atmosphere back to neutrality as...	1
+convection	convection is the positive or negative buoyancy of the fluid, and the primary characteristics of the convection pattern can hence be analyzed without regard to the.	1
+convection	In addition, convection may be inhibited despite a high TT value if a ... CT > 18 often is necessary for convection, but it is the combined Total Totals Index that is...	0
+convection	Convection is the process of losing heat through the movement of air or water molecules across the skin.	1
+convection	mechanism that thermocapillary convection helps to elevate evaporating mass flux.	0
+convection	Oct 15, 2005 ... convection causes also considerable differences in other areas (Fig.	0
+convection	But most noticeable re- garding the impact of convection is the very small amplitude of the longitudinal change of N2O and CH4 concentrations.	0
+convection	The only major component of the earth system not directly affected by convection is the biosphere, but given the high degree of interconnection between different...	0
+convection	This convection helps to homogenize the cloud-containing layer, frequently couples this layer to the surface which is the source of moisture.	1
+convection	Abstract This research investigated the flow and convective heat transfer ..... natural convection occurs due to heated air at the center of the space between the...	1
+convection	Aug 16, 2007 ... situation are found when weak convection occurs due to absorption of solar radiation around noon in mid-summer.	1
+convection	This convection helps to distinguish between tensors (more than 2-D) and matrices (exactly 2-D tensors).	0
+convection	Convection is the process of air or water flowing by the skin and carrying away body heat.	1
+convection	Convection is the process of transporting heat via the motion of the fluid.	1
+convection	eliminating buoyancy-driven convection helps to ensure that the transport of species is governed by diffusion alone.	1
+convection	Oct 1, 2005 ... convection helps to precondition the atmosphere for MJO by moistening the lower troposphere.	1
+convection	Using the previous parameters, the crucial factor for the onset of convection is the Rayleigh number.	0
+convection	Convection is the process of thermal energy (heat energy) transfer through movement of a fluid (liquid or gas).	1
+convection	The process of convection occurs when groups of molecules are displaced to the vicinity of slower or faster molecules and mix with them.	1
+convection	Thermal convection occurs due to density changes of the material caused by temperature variations: heated material rises towards the surface because of its...	1
+convection	related to nuclear reactor cores, fire and combustion modelling, electronic chips and .... Natural convection or free convection occurs due to the differences of.	0
+convection	Natural convection occurs when hot fluid or air rises, displacing cooler fluid/air.	1
+crop rotation	Crop rotation is the most effective method t.	0
+crop rotation	The purpose of crop rotation is to help the soil maintain a healthy...	1
+crop rotation	Crop rotation helps to reduce soil diseases and fungi by giving them time to die out before replanting a similar crop in the bed.	1
+crop rotation	Crop rotation is the backbone of any disease management strategy.	0
+crop rotation	Besides the mentioned potential benefits, crop rotation helps to protect soil from eroding and makes it possible to use the land in another period during the year.	1
+crop rotation	Crop rotation is the process of planting different crops on the same land in sequential seasons.	1
+crop rotation	Crop rotation is the process of alternating the.	0
+crop rotation	Crop rotation is the pre- determined sequence of crops that one grows on a certain field (Figure...	1
+crop rotation	Crop rotation helps to create a biodivers soil which reduces the chance of soil bound organisms to get a pest and reducing the use of pesticides (see annexes)...	1
+crop rotation	The purpose of crop rotation is to help maintain the balance of nutrients, organic matter, and microorganisms necessary for healthy soil.	1
+crop rotation	Integrated Crop Management requires a recognition of the fact that a diverse crop rotation is the most effective indirect means of maintaining soil fertility and...	1
+crop rotation	Crop rotation helps to replenish the soil with vital nutrients.	1
+crop rotation	Crop rotation helps to eradicate weeds, insects and plant diseases.	1
+cross-pollination	Pollination: Another cultivar or seedling hazelnut planted nearby is necessary for cross-pollination.	0
+cross-pollination	Corn is cross pollinated; therefore sow by planting in blocks to ensure that no matter which way the wind ... (This is necessary for cross-pollination to take place.	0
+cross-pollination	wind, whereas cross-pollination is caused by large flying insects such as bees and wasps.	1
+crossbreeding	The purpose of crossbreeding is to produce progeny which are more disease resistant, healthier and hardier.	1
+crossbreeding	Hey Barb and Mitchell - crossbreeding is the process of transferring pollen from one cultivar of a plant to another female part of another plant of...	1
+crossbreeding	The other often overlooked advantage of crossbreeding is the importance of breed complementarily.	0
+crossbreeding	A high percentage of foreign breeds horses and from crossbreeding causes that, besides Huculs, Polish Koniks do not meet the requirements of hippo-.	0
+crossbreeding	The lack of crossbreeding causes major problems.	0
+crossbreeding	The purpose of crossbreeding is to achieve genetic improve- ment by retaining the favorable traits and minimizing the weakness of parental species.	1
+crossbreeding	Crossbreeding is the recommended breeding strategy for commercial meat sheep and meat goat production.	1
+decay	In addition, the three-body decay helps to resolve discrete ambiguities present in measurements of the weak phase.	0
+decay	CP-violation in Decay occurs when the meson and its CP-conjugate decay at dif- ferent rates into the same (up to CP) final state.	0
+decay	Jan 2, 2014 ... Tooth decay occurs when candy, cookies, sodas and other sweets, or simple carbohydrates like those in chips or crackers, mix with bacteria in...	0
+decay	and is it the same phenomenon as .... Well to explain my stupidity: I knew that radioactive decay is the process of...	0
+decay	Beta decay is the process by which a neutron transforms into a proton or a.	0
+decay	Aug 30, 2012 ... To put it simply, urban decay is the process of disrepair and decrepitude.	0
+decay	Decay is caused by bacteria that feed on any food that contains sugars and carbohydrates.	0
+decay	Dental caries or tooth decay is caused by streptococcus mutans bacteria.	0
+decay	Jun 10, 2012 ... the notion of state decay and contends that it is a much more useful .... State decay is the process of significant deterioration of the state's...	0
+decay	As already established, tooth decay is caused by cariogenic bacteria like S. mutans.	0
+decay	Cultural Decay Causes an Economic and jobs Decline.	0
+decomposition	Aeration of the interior of the pile is necessary for decomposition to continue.	1
+decomposition	Decomposition is the first stage in the recycling of nutrients that have been used by an organism (plant or animal) to build its body, and are surrendered back to...	1
+decomposition	Abstract: Thermal decomposition is caused by the breaking of the bonds of ...	0
+decomposition	But I am also going to tell ... Decomposition is caused by fungi, bacteria, insects and other scavengers.	1
+decomposition	Domain decomposition is the process of partitioning an application data domain into subdomains which can be worked on individually in parallel to speedup the...	0
+decomposition	Efficient decomposition occurs when the following factors are used to fullest advantage.	0
+decomposition	Although, it may seem like a disgusting sight to imagine, this decomposition is the actual science behind it.	0
+decomposition	ANAEROBIC decomposition causes fast muck buildup to fill in the pond basin.	0
+decomposition	The temperature effect on the cellulose decomposition is caused by the chain mechanism of this process.	0
+decomposition	Apr 24, 2012 ... Decomposition causes tissue to decay, making the animals difficult to study.	1
+decomposition	The importance of the immune system is apparent when you think about how quickly decomposition occurs when an organism dies.	1
+decomposition	inite, Cholesky decomposition is the most efficient in solv- ing the system [3].	0
+decomposition	The simplicity of this decomposition is the major difference as regards previous decomposition formulae for various poverty measures displayed by Kakwani...	0
+decomposition	When an appropriate forecasting model is available, one general approach to trend/cycle decomposition is the method presented in Beveridge...	0
+decomposition	Spinodal decomposition occurs when a miscible mixture is rapidly quenched deep into the 2- phase region of the phase...	0
+decomposition	Decomposition is the process by which organic substances are broken down into a much simpler form of matter.	1
+decomposition	The decomposition occurs due to a variety of different agents such as micro-organisms (enzymes, bacteria and fungi), smaller organisms (insects) and larger...	1
+decomposition	The Tucker decomposition is the special case in which there is only one term.	0
+decomposition	Aug 30, 2011 ... Hierarchical decomposition is the process of decomposing a system in a top down fashion.	0
+decomposition	Nov 24, 2014 ... further decomposition helps to specify what will be implemented in terms of hardware and what will be implemented in terms of software.	0
+decomposition	Therefore, query decomposition is the same for centralized and distributed systems.	0
+decomposition	Thermal decomposition occurs when a substance is heated.	0
+decomposition	The final stage of the biological decomposition occurs when methanogenic micro-organisms biodegrade the organic acids produced in the nonmethanogenic...	1
+decomposition	Typically, electrolyte decomposition occurs due to the low potential of the Si anode (<0.5 V versus Li/Li+), resulting in electronic insulating SEI...	0
+decomposition	The col- oring by authoritative decomposition helps to observe how the dependency structure between the...	0
+decomposition	When turned under just before flowering, its decomposition helps to control soil-borne pests, especially cyst and sting nematodes.	0
+decomposition	Then, the decomposition helps to extract an absolute measure of the impact of ...	0
+decomposition	Decomposition occurs when the tree dies and its nutrients are recycled back into the environment.	1
+decomposition	"which affect the rate and extent of their decomposition, Ititrogen is cycled ""between ... nitrogen during decomposition is caused by the assimilation of nitrogen."	0
+decomposition	It is not related to the thermodynamics of the process and hence, the final .... decomposition occurs due to electron transfer from anion to cation.	0
+decomposition	The decomposition helps to determine what kinds of policies are better suited to improve the growth prospects of the banking sector.	0
+deposit	Failing to protect a deposit causes 38% of landlords eviction problems.	0
+deposit	The security deposit is the lawful property of the Tenant.	0
+deposit	Attribution of the security deposit occurs when the deposit is either forfeited or applied as consideration for a supply.	0
+deposit	Solid particles deposited on a surface may not cause any direct damage other than causing discoloration, but removal of the deposit causes some deterioration.	0
+deposit	Aug 6, 2010 ... deposit is caused by bacteria, particularly iron- depositing bacteria.	0
+deposit	Legal Deposit helps to ensure that the nation's published output (and thereby its intellectual record and future published heritage) is collected...	0
+deposit	Formation of uranium deposit occurs when source rock discharge leachable uranium elements and these elements start to move from source rock to host rock...	0
+deposit	Managing the rental deposit causes problems for landlords, tenants and letting agents  from managing deposit related disputes to paying and holding the...	0
+deposit	order of a few seconds will create multiple deposits on the inert cathode, some of .... growing electrodeposit occurs due to a diffusion-limited aggregation (DLA)...	0
+deposit	SureDeposit is the market leader, with...	0
+deposit	Negotiating the return of your tenancy deposit is the stage before taking your landlord to court if your deposit is unprotected...	0
+deposit	Jul 19, 2008 ... ... three to six months rent as security deposit, in southern cities of Bangalore and Chennai , ten months rent as deposit is the general rule.	0
+deposit	Large Commercial - (annual average of more than 3,240 kWh per month) The deposit is the sum of the two largest monthly bills over the last 36-month period.	0
+deposition	Jun 22, 2015 ... the accompanying video deposition is the complete original/master recording.	0
+deposition	Specifically, the results indicate that Au deposition causes dissociation of the InP bonds, while covering the surface with a continuous layer of...	1
+deposition	The reduced collagen deposition is caused by near absence of collagen telopeptide hydroxylation in the proband collagen.	1
+deposition	surface by carbon deposition helps to synthesize better quality copper nanostructures in the pore channels of.	1
+deposition	Vacuum Metalizing or Physical Vapor Deposition is the process of applying a variety of different metals to a substrate and is most commonly used as an...	0
+deposition	Feb 24, 2008 ... that the increased dust deposition is caused by the expansion of livestock grazing in the early twentieth century.	0
+deposition	Getting to take a deposition is the United States is rel- atively easy.	0
+deposition	Jun 8, 2010 ... Deposition is the reverse of sublimation.	1
+deposition	Atmospheric deposition occurs when pollution in the air falls to the ground in the form of dust, raindrops or just by gravity, eventually ending up in streams, lakes...	1
+deposition	A deposition is the same thing, without the judge, the jury, or as much excitement -- and it is not over in an hour like a television show.	0
+deposition	Feb 15, 2010 ... 2010 Nitrogen deposition causes widespread loss of species richness in British habitats.	1
+deposition	The influence of relative sea level rise on shoreface deposition helps to elucidate changes in beach and nearshore geomorphology in response to different...	1
+deposition	simultaneous deposition causes metastable structures.	1
+deposition	Closely related to the rule regarding correction of the deposition is the rule requiring supplementation of discovery.	0
+deposition	Deposition is the process of sediments settling and accumulating from a moving fluid (wind, water, or ice).	1
+deposition	Because deposition is the net difference between the particles that deposit and those that are resuspended, it is believed to be more accurate to.	1
+deposition	Wax deposition occurs when paraffinic components in crude oil (alkanes with carbon numbers greater than 20) precipitate and deposit on the cold pipeline wall...	1
+deposition	Therefore, the electrochemical copper deposition is the process of choice, as it provides highly pure and crystalline copper.	1
+deposition	deposition is caused by the increase of shear rate in the low- permeability rocks, which accelerates the deposition process, es- pecially of the partly dispersed...	1
+deposition	Atmospheric Deposition: Atmospheric deposition occurs when pollutants in the air fall on the land or water.	1
+deposition	The information needed for deposition is the same that is required for legacy deposition systems: Gather information about the proteins/nucleic acids in your...	0
+deposition	Aug 1, 2013 ... environmental problems, acid deposition is caused by the cumulative actions of millions of individual people.	1
+deposition	most accepted suggestions is that the non-metallic deposition is caused by transport of inclusions, present in the steel melt to the nozzle surface, followed by...	1
+deposition	Jul 6, 2009 ... Nitrogen deposition causes widespread loss of species richness in British habitats.	1
+deposition	Urate deposition occurs due to impaired renal excretion of uric acid or to excess production of uric acid overloading the ability of the kidneys to excrete this...	1
+deposition	fluids and in which ore deposition is caused by mixing of these fluids.	1
+deposition	Jun 21, 2011 ... Dry deposition occurs when molecules sorb onto a surface or when aerosol particles fall down onto a surface due to gravitational pull, which...	1
+deposition	Deposition occurs when sediment concentration in runoff exceeds transport capacity of the flow, while soil detachment occurs whenever sediment load in flow is...	1
+deposition	Jun 12, 2009 ... extent of the deposition is caused by a combination of the predominant wind characteristics in the SFB Area and local and regional terrain.	1
+deposition	A deposition is the process of taking a witness's testimony under...	0
+deposition	A deposition is the defense attorneys' opportunity to ask you questions about your background, your accident, and your.	0
+deposition	The increased advective motion which occurs at high energy deposition helps to offset this effect by moving more N atoms outside the streamer region...	1
+deposition	The deposition occurs when radium decays in porous soil and radon gas escapes into the atmosphere at a rate directly proportional to uncovered land masses.	1
+deposition	Wet deposition is the most important deposition mode in...	0
+deposition	Another type of sedimentary deposition occurs when material is dissolved in water, and chemically precipitates from the water.	1
+destroy	Crops and vegetation can be damaged or destroyed.	1
+destroy	Santa Destroy is the name of the city in which the No More Heroes series of games largely take place.	0
+destroy	Built to Destroy is the fourth album by the Michael Schenker Group (MSG).	0
+destroy	Aug 30, 2013 ... strength destroy is caused by hoop tensile stress and axial tensile stress concurrently .The excessive deformation of tank wall does not...	0
+destroy	The ability of leukocytes to produce O~ is necessary for destroy- ing some types of bacteria.	0
+destroy	The Hand That Can Destroy is The Same Hand That Can Help.	0
+destroy	Santa Destroy is the home of the Santa Destroy Warriors of Major League Baseball, at Destroy Stadium.	0
+destroy	The Miner's rule thinks fatigue destroy occurs when the damage linear accumulated up to 1, the critical damage degree cr.	0
+destroy	My understanding is that :dependent will loop through the associations and call the given function which means :destroy is the correct one to...	0
+destroy	Why Bliss Destroy is the debut EP released by Sucioperro in August 2002 and features the original line up of JP Reid, Mike Logg, Dave Martin and (Skindog)...	0
+destroy	To destroy is the opposite of to construct or to build.	0
+destroy	The most immediately obvious change to be found in Spybot Search & Destroy is the new look interface.	0
+diffusion	diffusion causes additional broadening to occur because of finite diffusion time in pores,34 or when kinetic adsorption or desorption effects become significant.	0
+diffusion	Oct 6, 1997 ... diffusion causes the two particles to reverse their relative velocity parallel to the magnetic field, and they collide again; in fact, they may collide...	0
+diffusion	ABSTRACT Co-diffusion is the positive interaction between the demands for complementary innovations that have separate adoption tracks.	0
+diffusion	On the other hand, in the opposite limit of DTe  L2, where now the spin diffusion is the rate limiting step, one has instead pn  (2n + 1)/L.	0
+diffusion	Gas movement by diffusion occurs due to molecular interactions.	1
+diffusion	Diffusion occurs when the spontaneous net movement of particles or molecules spreads them from an area of high concentration to an area of low concentration...	1
+diffusion	Aug 15, 1996 ... volume is necessary for diffusion to occur.	1
+diffusion	Diffusion is caused by molecule movement energy, thermal conductivity and concentration of gas molecules, while filtration is governed by pressure gradient.	1
+diffusion	Diffusion is the process of a substance spreading out from its origin.	1
+diffusion	Diffusion occurs due to the concentration differences of the pollutants in the air.	1
+diffusion	petition-diffusion system, and prove the existence of a stable spatially-inhomogeneous ...... (iii) Attractive type  the diffusion is caused by attractive forces and.	0
+diffusion	Diffusion is the process of movement of liquid or air from its higher concentration to the lower concentration.	1
+diffusion	Diffusion occurs due to the random movement of chemical molecules.	1
+diffusion	Diffusion is the process of a substance spreading out to evenly fill its container or environment.	1
+diffusion	To help understand other, more practical matters relating to sound it is useful to ..... Diffusion helps to reduce standing waves, and can make a small room...	0
+diffusion	AbstractDiffusion is the process of spreading information throughout a ... previous work by using the degree of diffusion to calculate the adoption rate and...	0
+diffusion	Diffusion occurs when the particles of a solute ... A. are heated and cooled very quickly.	0
+diffusion	Dec 2, 2014 ... Diffusion is caused by complicated physical movement such as psychrometric difference and Brownian motion.	1
+diffusion	Diffusion is the process of transferring matter from an area of high concentration to an area of low concentration under the influence of thermal energy.	1
+diffusion	Which of the following is necessary for diffusion to occur?	0
+diffusion	Sep 21, 2005 ... Diffusion is caused by water molecular random motion, so-called Brownian motion, and it is able to change the intensity of local magnetic field...	1
+diffusion	Diffusion occurs due to Brownian motion, a jittery random motion of particles.	1
+diffusion	Simple passive diffusion occurs when small molecules pass through the lipid bilayer of a cell membrane.	1
+diffusion	May 19, 2014 ... Our response in Diffusion 5.0 is to provide a solution that does more so ... communication platform, Diffusion helps to reduce infrastructure...	0
+digestion	Digestion is the process by which food molecules are broken down into smaller molecules that are able to be absorbed by the gut tissue.	1
+digestion	Digestion is the process of changing food into a form that the body can absorb and use as energy or as the raw materials to repair and build new tissue.	1
+digestion	Food begins its journey through the digestive system in the mouth, also .... Digestion is the process of turning large pieces of food into its component chemicals.	1
+digestion	In these, the reactions occurring can be summarized as: ..... of an activated sludge process except that anaerobic digestion occurs due to absence of oxygen.	0
+digestion	The process of anaerobic digestion occurs when oxygen is removed from biodegradable waste material storage facilities; this forces them to break down the...	0
+digestion	Inhibition of cellulose digestion is caused by AFEX products from lignin, cellulose and hemicellulose, formed via Maillard and other reactions.	0
+digestion	Co-digestion is the process of combining high strength industrial organic wastes in an anaerobic digester (Totzke, 2009).	0
+digestion	Digestion is the process of preparation of food for absorption from the alimentary canal into the blood stream and elimination of the unabsorbed residue from.	1
+digestion	Digestion is the process of releasing the palm oil in the fruit through the rupture or breaking down of the oil-bearing cells.	0
+digestion	Digestion is the process by which food is broken down into its smallest parts, which can then be absorbed into the bloodstream.	1
+digestion	Co-digestion is the process of digesting municipal sewage sludge with other organic wastes to...	0
+digestion	Without the digestive system, our bodies could not take in food, ... Chemical digestion is the process of breaking down foods using digestive juices called...	1
+digestion	Apr 17, 2014 ... devoid of oxygen, anaerobic digestion produces byproducts such as ... digestion is the process of breaking down organic waste through the...	1
+digestion	Mechanical digestion occurs when the body...	0
+digestion	A well  known disadvantage of anaerobic digestion is the fact that the solids produced are not typically suitable for direct land application as they tend to.	0
+digestion	digestion is caused by avoided traditional manure management, and to a smaller extent, also by the fossil energy that is avoided by providing biogas-based...	0
+digestion	Jul 4, 2011 ... Digestion is the process by which food is broken down into absorbable nutrients in your body.	1
+digestion	The active role of the stomach in digestion helps to convert foods into chemical forms that the body can utilize.	1
+digestion	Physical digestion occurs when food is broken down into smaller pieces by the...	1
+digestion	Digestion is the process by which food is changed into substances that can be absorbed and used...	1
+digestion	whether this two-phase starch digestion is caused by different starch structures or by differences in accessibility to starch granules.	0
+digestion	Sep 28, 2014 ... Peristalsis No digestion occurs The stomach Physical digestion occurs due to muscles in the stomach which churns the food forming The...	1
+digestion	The SeaHold LLC focus is on anaerobic digestion:  Anaerobic digestion occurs when organic material or biomass is in an oxygen-free environment in a...	0
+digestion	Yoga Poses: Yoga boosts Digestion Naturally Digestion woes Lack of proper digestion is caused by overeating, irregular food timings, unhealthy food...	0
+digestion	The taste buds signal the stomach to excrete hydrochloric acid, which is necessary for digestion of proteins and other food components.	1
+digestion	If food keeps us alive, then digestion is the process of life.	0
+digestion	Feb 29, 2012 ... ... only breaks down a small fraction of the ingested lipids, as most of triglyceride digestion is caused by pancreatic lipase (Pedersen and others...	0
+digestion	An interesting characteristic to tell you when someone has poor digestion is the dowager's hump at the base of the neck where it enters the shoulders.	0
+digestion	The purpose of digestion is to reduce the amount of organic matter and the...	1
+digestion	Feb 11, 2015 ... Anaerobic digestion is the process by which organic waste material is converted into energy.	0
+digestion	The nutrients in food give the body's cells the energy and other substances they need to operate, and digestion is the process of breaking down food and drink...	1
+dripping	Dec 15, 2011 ... ... students can see how, as Ca decreases, a transition from jetting to dripping occurs when surface tension dominates over the viscous forces.	0
+dripping	In many applications, dripping is caused by capillary waves which move upstream while growing until they pinch off the interface at the orifice...	0
+dripping	Feb 3, 2014 ... Dripping occurs when the pendant drop goes unstable because the force of gravity exceeds the force of surface tension.	0
+dripping	dripping helps to avoid cross-contamination - Self calibration is accomplished with our calibration strip which enables accurate result - Built in refractometer,...	0
+dripping	The bacon dripping helps to give the soup loads of flavour despite...	1
+dropping	teresis because most of the call dropping is caused by nodes being.	0
+dropping	Initial dropping is caused by the nature of stress in Australian languages: although stress is usually on the first syllable, the pitch peak of stress occurs late in the...	0
+dropping	Jan 1, 2012 ... Name-dropping is the process of putting the name of a prominent, but not necessarily recognizable celebrity, in the text of the cartoon.	0
+eclipse	There are two types of eclipses involving the sun, moon, and Earth.	1
+eclipse	A lunar eclipse occurs when the Earth comes between the sun and a full moon.	1
+eclipse	Mar 29, 2006 ... (1999) suggested that the variability of ultraviolet irradiance close to the maxi- mum of the eclipse is caused by an increase in the share of the.	0
+eclipse	For the observer, the important point for a penumbral eclipse is the least separation between the moon's limb and the edge of the umbra.	1
+eclipse	Bug 236724 - [Browser] Eclipse causes JVM crash in libxul when editing Java ......	0
+eclipse	The second column TD of Greatest Eclipse is the Terrestrial Dynamical Time of greatest eclipse.	0
+eclipse	Any solar eclipse is an interesting event, but a total solar eclipse is the most spectacular astronomical phenomenon that you'll ever see.	1
+eclipse	A solar eclipse occurs when the moon comes between the sun and the Earth.	1
+eclipse	Jun 1, 2010 ... ... truth value than the sentence, 'A solar eclipse is caused by Rahu swallowing the sun.'	0
+eclipse	The eclipse is the headline act, but it is part of a week-long travelling festival of astronomy in the company of like-minded amateurs - and with...	0
+eclipse	A lunar eclipse occurs when the Moon enters the Earth's shadow.	1
+eclipse	May 9, 2012 ... An annular solar eclipse occurs when the moon does not completely obscure the sun, leaving a bright ring around the moon's disk.	1
+eclipse	The Rite of Total Eclipse causes an eclipse of the sun to occur.	0
+eclipse	This fourth type of solar eclipse occurs when the lunar and solar apparent sizes are almost equal.	0
+eclipse	A total solar eclipse is the only opportunity to observe the Sun's corona without specialised equipment.	0
+eclipse	An annular solar eclipse occurs when the Moon moves in front of the Sun but does not cover the Sun's discs completely.	1
+erosion	Rocks are weathered, broken down, and then carried away through the action of erosion.	1
+erosion	Water, wind, and gravity are all forces involved in erosion.	1
+erosion	Mesh erosion causes small bowel obstruction: a rare complication of laparoscopic inguinal hernia repair:...	0
+erosion	Soil erosion is caused by disturbance of a land surface.	1
+erosion	Highly eroded fields in southern Brazil cultivated with no-till, where soil erosion is caused by low residue density, compacted soils and absence...	1
+erosion	The Schools of the Pacific Rainfall and Climate Experiment notes that coastal erosion occurs due to wave and current activity, storms, earthquakes, wind, tides...	1
+erosion	Dec 18, 2013 ... Rill erosion occurs when runoff water forms small channels as it concentrates down a slope.	1
+erosion	Erosion is the process of detachment and transport of soil particles by erosive agents (Ellison, 1944).	1
+erosion	May 6, 2004 ... [3] Soil erosion occurs when the wind speed exceeds a certain threshold.	1
+erosion	spherical shell strain counterbalances thermal erosion depends on factors such as divergence rate (rapid divergence favours thermal erosion), convergence.	1
+erosion	soil erosion is the strongest yet because of the severe natural environment, such as long storm, endless desert, infrequent vegetation, and unconsolidated loess.	0
+erosion	Re-landscaping an existing development is not allowed, unless landscaping has died and is necessary for erosion control and soil stabilization.	0
+erosion	Coastal erosion occurs due to the effects of the coastal construction such asjetties, which is an interesting topic between scientists.	0
+erosion	very evenly and quickly because the only force that resists erosion is the friction between the grains.	0
+erosion	Wind erosion is caused by the action of the wind on the soil surface and is the process by which fine soil particles are carried away.	1
+erosion	n Splash Erosion: This type of erosion is caused by the impact of raindrops on bare or sparsely vegetated soil.	1
+erosion	Soil erosion is the process of removal of superficial layer of the soil from one...	1
+erosion	Gully erosion is caused by running water; it typically occurs as a result of the digging of a river channel.	1
+erosion	Feb 1, 2013 ... Coast erosion is the process of wearing away material from the coastal profile due to imbalance in the supply and export of material from a...	1
+erosion	Wind erosion occurs when the energy of wind is suffi cient to detach and transport soil particles.	1
+erosion	Erosion is the process of carrying soil from one location to another.	1
+erosion	Erosion is the process of transporting weathered...	1
+erosion	Bulk erosion occurs when the rate at which water penetrates the device exceeds that at which the polymer is converted into water-soluble materials (resulting in...	1
+erosion	"Rill erosion is caused by concentration of runoff in small channels called ""rills."""	1
+erosion	Forms from pieces of pre-existing rocks; Weathering is the process of breaking down a pre-existing rock, and erosion is the process of moving the pieces of rock...	1
+erosion	Jul 15, 2015 ... SA Erosion Causes Major Concerns.	0
+erosion	Sep 17, 1999 ... the chance for significant erosion is the highest.	0
+evaporation	One important item for all interfacial studies and hence also for evaporation is the cut-off.	0
+evaporation	Evaporation is caused by heat, the energy of molecules in motion.	1
+evaporation	During step 1, evaporation occurs due to the elevated vessel temperature.	1
+evaporation	thors2325 have reported that BaO evaporation occurs due to prolonged high-temperature synthesis.	1
+evaporation	Evaporation is the process of vaporization of solvent from solution in order to increase the concentration of the solute.	1
+evaporation	Evaporation is the process of changing water from liquid to gas.	1
+evaporation	Liquid water changing to water vapor is evaporation.	1
+evaporation	Evaporation is caused by water turning into a vapour and escaping from your pond.	1
+evaporation	Evaporation is the process of turning a liquid, at its saturation temperature, into vapor.	1
+evaporation	The primary driving force in case of evaporation is the incoming solar radiation.	1
+evaporation	Evaporation is the process of converting water into water vapor through...	1
+evaporation	Evaporation is the process of changing from liquid to gas.	1
+evaporation	Evaporation is the process of a substance in a liquid state changing to a gaseous state due to an increase in temperature and/or pressure....	1
+evaporation	Evaporation is the process of vaporising the solvent from a solution to produce.	1
+evaporation	The solvent evaporation occurs due to the inlet of hot gases ( dispersed phase ) into the liquid solution (continuous phase ), A simplied diagram is presented in...	1
+evaporation	Evaporation is the process of water turning.	1
+evaporation	Clouds get their water from evaporation.	1
+evaporation	The evaporation depends on factors such as the solar radiation, the wind, the temperature.	1
+evaporation	Jul 22, 2015 ... As most of us know, evaporation is the process by which liquid water turns into water vapor.	1
+evaporation	Evaporation is the process of losing heat through the conversion of water to gas.	1
+evaporation	Water from the oceans enters the atmosphere through evaporation.	1
+evaporation	Evaporation occurs when we sweat and the tiny droplets of liquid are converted into vapor.	1
+evolution	Abstract: Species range limits are paradoxically viewed as either diversifying areas, where niche evolution occurs due to adaptations in novel environments,...	1
+evolution	Evolution causes ripple effects through the R&D organization: As all software, the shared compo- nent will also evolve with, typically, a certain heartbeat.	0
+evolution	Nov 30, 2012 ... On the assumption that we descend from hairy apes, and that evolution occurs due to need, what was the need for us to lose our body hair?	0
+evolution	First, the law proves that natural selection is necessary for evolution to occur.	1
+evolution	Micro-evolution is caused by small changes to the gene pool that can alter the appearance or the internal structure of the life form to keep it well adapted for its.	1
+evolution	We have to always remember, that evolution is caused by totally accidental mutations, though due to existance of natural selection, it may be expected, that...	1
+evolution	variety is necessary for evolution through population dynamics.	1
+evolution	Nov 9, 2012 ... Form criticism is also rooted with the assumption that evolution is the process of progression from the simple to the complex.2Kebler describes...	1
+evolution	One complete revolution of the moon around the Earth takes approximately one month.	1
+evolution	Evolution is the process by which one species changes into other species during long periods of time.	1
+evolution	Evolution is the process of change that has transformed life on Earth from its earliest beginnings to the diversity of organisms living today.	1
+evolution	Evolution occurs when organisms exhibit differences in.	1
+evolution	Divergent evolution occurs due to habitat changes, alterations in a primary food source, interbreeding or any change that dramatically alters the way in which a...	1
+evolution	Evolution is the process of adaptation through mutation which allows more desirable characteristics to be passed to the next generation.	1
+evolution	A continuous reading of Evolution helps to make clear how each of the nineteen episodes stands in relation to the overall narrative.	0
+evolution	I think your misunderstanding of Evolution is the problem here, not the Catholic Church's accurate understanding of it.	0
+evolution	With its new functionality, NAO EVOLUTION is the next big step for the development of innovative applications for a broad range of companies and content...	0
+evolution	While theoretically adaptive evolution occurs when Ka > Ks, it has been frequently observed when this ratio is around 1 ( Crandall et al., 1999 and Liberles,...	0
+evolution	Simulated evolution is the process of duplicating certain aspects of the evolutionary system.	0
+evolution	The theory of evolution is the great white elephant of contemporary thought.	0
+evolution	So NOT to believe in evolution is a blasphemy because God / Allah's creations are perfect, so evolution is the perfect way to create living diversity.	0
+evolution	Evolution occurs when there is change in the genetic material -- the chemical molecule, DNA -- which is inherited from the parents, and especially in the...	1
+evolution	The different phases of the moon as seen from Earth are caused by the revolution of the moon around the Earth.	1
+evolution	Dec 5, 2014 ... Evolution is the fundamental idea in all of life science, and when you understand it you will know more about yourself and every other living...	0
+evolution	Evolution is the process of change that has given us the Reality we have today.	0
+evolution	Evolution is the process of change in all forms of life over generations.	1
+evolution	Thus, the majority of large-scale societal evolution occurs due to the efforts of a relative handful of individuals in any field of endeavor.	0
+evolution	Jun 9, 2009 ... A logical question stems from this work - how much evolution is caused by natural selection and how much is harvest-induced?	0
+evolution	Students should have the understanding that evolution is the process by which life progresses from one form into another.	1
+evolution	Oxygen evolution is the process of generating molecular oxygen through...	0
+evolution	Evolution is the process of organisms' inherited traits changing from generation to generation.	1
+evolution	random mating is necessary for evolution to occur variation does not exist between members of the same species populations will change to better fit their...	1
+evolution	Evolution is the slow process that changes animals and plants and it's a great piece of science!	1
+evolution	As the purpose of evolution is to increase the amount of information a genome contains regarding its environment, the reversible molecular switch must contain...	1
+evolution	Because of the tilt and the Earth's position around the sun during its revolution the Earth experiences four distinct seasons: winter, spring, summer, and fall.	1
+extinction	Extinction occurs when one vibration direction of a mineral is parallel with the lower...	0
+extinction	According to researchers, in modern times, the mass extinction is caused by freak acts of nature.	1
+extinction	De-extinction is the process of creating an organism that is or resembles a member of an extinct species.	0
+extinction	In biology and ecology, extinction is the end of an organism or of a group of organisms (taxon), normally a species.	1
+extinction	Investigate whether auditory extinction occurs due to a deficit in integration...	0
+extinction	The knowledge that there will inevitably be another extinction helps to put our daily woes in perspective.	0
+extinction	The present study demonstrates that D2 receptor signaling is necessary for extinction of conditioned fear.	0
+extinction	Between 200 and 1000 additional extinction occurs due to large droplets...	0
+extinction	In operant conditioning, extinction occurs when a behavior is no longer followed by a reinforcer.	1
+fertilization	When you listen to the national news and morning television shows, you think that in-vitro fertilization is the only thing available to infertile couples, yet less than...	0
+forecast	The basic building block of any forecast is the sales or income line.	0
+forecast	file which is necessary for forecasting?	0
+freeze	On the face the venus freeze helps to tighten skin and reduce sagging and wrinkles.	0
+freeze	Jun 25, 2012 ... A freeze occurs when the temperature is at or below 32oF throughout the area.	0
+freeze	I want a life beyond the four walls, and Keys to Freeze is the start.	0
+freeze	Deep Freeze helps to eliminate workstation damage and downtime by creating a frozen snapshot of a workstation's configuration and settings.	0
+freeze	School explained that ain freeze occurs when blood vessels above the roof of the mouth rapidly dilate and then I have had 2 CT scans and MRI Spine Doctors...	0
+freezing	Freezing is the process that causes a substance to change from a liquid to a solid.	1
+freezing	Once the outside temperature drops below the freezing point of water, it is more likely that the precipitation will be in the form of snow.	1
+freezing	Sleet is freezing rain falling from the sky.	1
+freezing	"The technical term for this process is called deposition; properly speaking it's not ""freezing"" because freezing is the process of transitioning from..."	0
+freezing	Freezing causes the formation of ice crystals, which make muscle fiber swell and cause their physical separation.	1
+freezing	If the mouse move, then it is very likely that the freezing is caused by the locking of one program.	0
+freezing	Step 5.1: Freezing after reboot: the freezing is caused by one of the enabled services, so again, sort the list alphabetically and disable half of...	0
+freezing	Supposedly flash freezing causes smaller ice crystals, which minimize this from happening.	1
+freezing	Rolling stone fruit in sugar before freezing helps to preserve the shape.	0
+freezing	As such, freezing occurs when liquid water comes into contact with the cold ground and object surfaces.	1
+freezing	Freezing does not require the use of food preservatives but sometimes preservatives are used if the purpose of freezing is to keep the food...	0
+freezing	This freezing is caused by your Intel HD Graphics... How many years you have used your ThinkPad E530 ?	0
+freezing	Egg freezing is the latest perk offered to Apple and Facebook employees, but is it a good idea?	0
+freezing	Results suggest that freezing is caused by a combination of an increasing inability to generate stride length superimposed on a dyscontrol of the cadence of...	0
+freezing	Rain can occur anytime during the year as long as the outside temperature is above the freezing point of water.	1
+freezing	WELDING TECHNOLOGY: Shock freezing helps to relax hot welds.	0
+freezing	Blanching in water about 30 seconds before freezing helps to keep the skin from toughening.	0
+friction	In this study, it is considered that the friction occurs due to adhesive forces between the surfaces in sliding contact and its mechanical stiffness...	1
+friction	Friction is caused by forces between two things when they touch, like when you drag your foot along the sidewalk and feel and hear the...	1
+friction	And one of the best frameworks we've leveraged for thinking about friction is the Fogg Behavior Model.	0
+friction	Friction is caused by ploughing and adhesion between contacting surface asperities.	1
+friction	Ans: Friction occurs due to ploughing (due to surface roughness) and adhesion (due to.	1
+friction	Jul 31, 2012 ... Because friction is the process of transformation and dissipation of mechanical energy into other kinds of energy, an energy-based concept...	1
+friction	Tsing's concept of friction helps to explain how these assumptions relate to the realities of mobility and displacement in South Africa.	0
+friction	In such a case, the friction is caused by surface roughness, although the adhesion effect still plays a part in the abrasion.	1
+friction	The two are related ... As its name suggests, static friction occurs when the body is not moving with...	0
+friction	Inter- nal friction occurs due to loading at high stresses when the polymer chains are dragged past one...	0
+friction	Which type of friction occurs when an eraser is rubbed across a sheet of paper?	0
+friction	Jan 15, 2010 ... and groin are two areas where moisture collects and friction occurs due to the frequent rubbing of skin and thereby provide optimal.	1
+friction	ABSTRACT A fundamental and quantitative analysis of the tool-chip friction helps to better understand the mechanism of chip formation and other complex...	0
+friction	An example from Wriggers (2006) of a velocity and pressure dependent constitutive relation for rubber friction is the following.	0
+friction	Dec 6, 2000 ... ... established how much friction is caused by mechanical forces alone -- that is, how difficult it is physically to move one molecule past another.	1
+friction	Friction is the following where is the coefficient of friction.	0
+friction	Jul 4, 2003 ... And so you cannot expect that some type of a mechanism, heavily burdened with friction causes a force that can be applied for useful work.	0
+friction	When an object travels slowly over a bumpy surface and fast over a smooth surface the difference is due to friction.	1
+friction	Controlling friction helps to get a better understanding of friction by measuring, e.g., velocity-weakening friction forces.	0
+friction	Objects being pushed over a smooth surface will move easier due to less friction.	1
+germination	Germination is the process by which a seed begins its development into a mature plant.	1
+germination	GA stimulates germination and its synthesis upon seed imbibition is necessary for germination to take place.	1
+germination	Oct 9, 2014 ... Germination is the process of the embryo emerging from the seed.	1
+germination	The total germination is the highest for beans (5 %) and the lowest for lens (1,3 %).	0
+germination	Germination is the process by which a seed grows into a new plant.	1
+germination	Seed germination is the process of growth of the embryo into a functional plant.	1
+germination	Germination occurs when a seed sprouts (usually caused by changes of temperature and moisture); Monocots have 1 seed leaf (cotyledon), Dicots have 2 seed...	1
+germination	In this lab, the volume of O2 consumed by germinating and non-germinating .... Germination causes a higher rate of respiration than the non-germinating peas.	1
+germination	Seed dormancy is a type of latency in which absence of germination is caused by obstacles in the seed itself.	0
+germination	It appears that seed germination occurs when the seed ROS content is enclosed within an oxidative window that allows ROS signaling but not ROS damage...	0
+germination	Understanding the kind of substances released by seeds during their germination helps to protect growing seedlings from invading pathogens and to manipu-.	0
+germination	Seed germination is the critical stage for species survival [1, 2].	0
+germination	For African nightshades low germination is caused by improper seed extraction and therefore inadequate removal of sugars and germination inhibitors present...	0
+germination	The improvement in germination is caused by the softening of the seed coat and the ensuring of adequate water absorption by the living tissues.	1
+germination	Sep 10, 2009 ... One puzzling aspect of the signalling regulating seed germination is the need for hormones at all.	0
+germination	shock induced germination occurs when a seed or fruit wall that is impermeable to water.	1
+germination	There are a number of resources and issues related to prairie-oak bird ...... germination occurs due to lack of available space or resources) for each species.	1
+germination	Germination occurs when the hard outer seed coat is abraded by waves on sand and gravel.	1
+germination	Seed germination is the process of sprouting of a seed and beginning of growth.	1
+germination	Seeds contain stored food that aids in germination (sprouting) and the growth of new young plants.	1
+grafting	fully passivated and that some grafting occurs when scanning backward in the potential range of peak I. W hen the potential scan was repeated, the forward...	0
+grafting	Grafting is the process of introducing the stem of one plant into another plant in order for them to join together through their vascular tissue.	1
+grafting	Grafting is the process of adding nodes to the inferred decision trees to ... Decision tree is a graphical model that is used as a support tool for decision process.	0
+grafting	Root grafting occurs when trees in close growing proximity may have roots that contact and join.	1
+grafting	Apr 15, 2014 ... Top-grafting is the process of changing a tree from one cultivar to another by means of grafting.	1
+grafting	Bone grafting is the process of augmenting a patient's jaw using supplemental bone tissue.	0
+grafting	Grafting is the art of cloning plants by taking a piece of tissue (usually a bud, or a twig with one or more buds)...	1
+grafting	Dec 24, 2004 ... COCl is kinetically very slow in the presence of solvent and only a low amount of grafting occurs due to a heterogeneous nature of the reaction.	0
+gravity	Jun 16, 2015 ... BusyBox: a program I used needed it (I am not exactly sure which ... to installing the Xposed framework (it is necessary for Gravity Box, isn't it?	0
+gravity	Removing that gravity causes serious changes in how our bodies function.	0
+gravity	Mar 6, 2007 ... My friend thinks gravity is caused by the Earth spinning, and I think it is caused by the Earth weighing so much we stick to it.	0
+gravity	Gravity occurs when Newton accelerates through space, ...	0
+gravity	Gravity is the least understood among the four fundamental forces in the nature.	0
+gravity	Feb 3, 2013 ... For Newton, gravity is caused by mass attraction.	1
+gravity	The localization of gravity occurs due to an attractive force potential of delta...	1
+gravity	How High Specific Gravity Causes Corroded Grids.	0
+gravity	Gravity and Intracellular Differences in Membrane Potentials of ... larization with respect to gravity occurs when coleoptiles are oriented with...	0
+gravity	of evidence indicated that auxin redistribution, as a result of polar auxin transport, is necessary for gravity-stimulated Ivr2 transcript accumulation and differential...	0
+gravity	Planets with moons tend to be more stable in their rotation axis, because the moon's gravity helps to stabilize their spin.	1
+gravity	Several lines of evidence indicated that auxin redistribution, as a result of polar auxin transport, is necessary for gravity-stimulated Ivr2 transcript accumulation...	0
+gravity	Gravity causes a force on the center of mass of m g in the vertical direction leading to.	1
+gravity	The force that pulls objects toward the Earth is gravity.	1
+gravity	Expert's opinion on Gravity: is the 2013 blockbuster accurate, full of error ... online critique of Gravity is the astrophysicist Neil deGrasse Tyson,...	0
+gravity	If gravity is the only force acting on an object, then we find the object will accelerate at a rate of 9.8m/s2 down toward the center of the Earth (this is often rounded...	0
+gravity	I dont think that gravity is caused by centrifugal force, if it would be so, we would have no gravity at the poles, and more at the equator.	1
+gravity	We will look first at the theory that gravity is caused by static charges.	1
+gravity	Gravity causes erosion by pulling dirt, rocks and soil downward.	1
+gravity	Jan 23, 2015 ... Abstract: GRAVITY is the four-beam, near- infrared, AO-assisted, fringe tracking, astrometric and imaging instrument for the Very Large...	0
+gravity	Water, wind, and gravity are all forces involved in erosion.	1
+hail	Flying Through Hail is the sixth and final mission in Medal of Honor: Airborne.	0
+hail	Hail causes considerable damage to U.S. crops and property, occasionally causes death to farm animals, but seldom causes loss of human life.	0
+hail	Feb 19, 2013 ... Hail is the formed when an object, including dust or particles in the air, collides with supercooled water.	1
+hail	Wonderful though it sounds, the invention, unsurprisingly, did not work since hail is caused by thunderstorms with strong updrafts and unstable air mass, rather...	1
+hail	The formation of hail is caused by the supercooling of uplifted liquid below freezing temperatures during severe...	1
+hail	Examples of precipitation include rain, snow, sleet, and hail.	1
+hail	Lightning, hail, and tornados are associated with severe thunderstorms.	1
+hail	Hail causes about $1 billion dollars in damage to crops and property each year, according to the National Oceanic Atmospheric Administration (NOAA).	0
+hail	Hail causes approximately $1 billion in damage annually in the United States to houses, buildings, cars and crops.	0
+hail	Hail occurs when ice pellets falling from the top of the cloud collect a film of moisture as they descend.	1
+hail	Hail is caused by a strong updraft in a storm system, the same updraft that causes thunderstorms.	1
+hail	Does this mean that hail is the major factor in producing lightning?	0
+hail	May 27, 2015 ... Hail causes downed limbs, dents and roof damage throughout Butler County ...	0
+hail	Sep 18, 2014 ... can become hail, large amount of droplets aloft is necessary for hail formation.	1
+harden	Mar 31, 2015 ... Anthony Davis thinks James Harden is the L's most valuable player this season: He's Playing Out of His Mind.	0
+harden	Rubbing or molding the wrap cast after it has started to harden causes distortions in the cast that are usually undesirable.	0
+heating	The non-uniform heating of foods in domestic microwave ovens is due to complex ... A mathematical model of microwave heating helps to understand...	0
+heating	signicant heating occurs when patients implanted with a commercial stapes prosthesis are exposed to an MRI scanner.	0
+heating	Heating is the largest energy expense in most homes, accounting for 35% to 50% of annual energy bills.	0
+heating	Heating occurs when olefins such as ethylene, propylene and butene are absorbed on activated carbon, 5A or 13X molecular sieve, and similar materials.	0
+heating	The absence of solar heating causes the atmospheric convection to decrease, and the urban boundary layer begins to stabilize.	0
+heating	Because heating causes damage and inconvenience of many kinds, and develops so quickly in its later stages, the practical problem is one of dealing with it as...	0
+heating	of atmospheric gases such as carbon dioxide (CO2) and methane (CH4) ... of soil heating depends on factors such as the magnitude and duration of energy...	0
+heating	This heating causes a rapid outward expansion, impacting the surrounding cooler air at a speed faster than sound would otherwise travel.	0
+heating	Unequal heating causes different wind patterns and changes the weather and climate a lot.	0
+heating	It is shown that in air at E/N  200 Td the main contribution to gas heating occurs due to dissociation reactions by electron impact of O2 molecules and due to...	0
+heating	The uneven heating causes giant circulation patterns,...	0
+heating	is, when saturation starts, significant heating occurs due to stray flux eddy-currents in the nonlaminated structural metal parts, including the tank.	0
+heating	Heating causes a complex series of physical and chemical changes to occur.	0
+heating	Next to space heating and cooling, water heating is the largest single demand on home energy consumption.	0
+heating	This bubble-enhanced tissue heating occurs due to absorption of the energy from broadband acoustic emissions generated during bubble...	0
+help	Dogs have legs to help them move.	1
+help	When this happens we use tools, or machines, to help us do work.	1
+help	To help make more detailed observations scientists often use tools.	1
+help	Water helps living things survive by moving materials.	1
+help	With the help of animals (insects and birds), rain, and wind, flowers can be pollinated (fertilized) so that seeds can be formed that will grow into new plants.	1
+help	Because of their size, elephants move very slowly, so having good hearing helps protect them from predators.	1
+help	The diaphragm is a muscle that moves up and down as we inhale and exhale and helps the lungs take in and let out air.	1
+help	Animals take in food as a nutrient to give them energy and help them grow.	1
+help	The mouth helps in digestion and respiration.	1
+help	Nutrients are taken in through the roots from the soil and help the plant survive.	1
+help	These smells and sounds can attract other animals so that they can mate or they can help them fight an enemy.	1
+help	Recourse to medical help occurs when all else has failed.	0
+help	The flower is colorful and has a pleasant scent that attracts birds and insects to help with fertilization.	1
+help	Oct 26, 2010 ... A second time in which Bella turns to Jacob for help occurs when Edward breaks up with her.	0
+help	Lobsters and crabs protect themselves with their claws, turtles have shells, porcupines have spines, birds use their feathers, and others have fur or scales to help protect them from predators.	1
+help	This booklet is not a substitute for the mutual self-help offered through SOS or other ..... Mutual self-help is the process of helping yourself through helping others.	0
+help	Your decision to help is caused by three psychological factors: Closeness; Vividness; Drop-in-the-bucket effect...	0
+help	Plants get their nutrients from the soil, which helps them grow and perform photosynthesis.	1
+help	This underestimation of HELP is caused by an overestimation of soil evaporation and an underesti- mation of plant transpiration.	0
+help	The flower helps the plant reproduce because it contains the pollen and eggs.	1
+help	No appointment is necessary for help with any of these safety topics.	0
+help	Body fat is a form of stored energy and helps animals get through long periods of time with little food.	1
+help	Specifically How to Help depends on factors such as available resources, finances, facilities, and who can help as well as the type of needs present.	0
+help	While I think recreational reading is necessary for helping your mind disengage from the day to day work, I'm talking about the non-fiction books...	0
+help	Humans can help the environment in many ways:	1
+help	Inappropriate help occurs when suggestions and/or support provided exceeds the help and guidance a teacher might give in class or during a tutorial session.	0
+help	their need to seek help is caused by internal-dispositional factors (e.g., one's own inadequacy) or by external-situational factors (e.g., task difficulty).	0
+help	Birds have wings to help them move.	1
+help	anomalies considerably facilitates the identification of molecular processes related to pathogenesis of autism and is necessary for helping autistic children [1].	0
+help	Frogs are able to swim with the help of a tail during the tadpole phase.	1
+help	The body systems work like a machine and each system works to help the animal grow, create energy, and survive.	1
+help	These colors and smells attract birds and insects to visit them and help with the reproduction process.	1
+help	Brushing our teeth removes the food and helps keep them strong.	1
+help	Birds have wings that are long and angled to help them fly.	1
+help	Think of a lion's golden fur, which helps it blend into the desert landscape.	1
+help	Their reluctance to seek help is caused by difficulties in recognizing the existence and severity of a problem and its associated.	0
+help	Humans can help save their environment by recycling, planting trees, preventing litter, limiting use of cars, creating new forms of energy, and conserving energy.	1
+help	They also have very large ear flaps that help them hear.	1
+help	A fish has a flipper or fin that helps them swim.	1
+hibernate	Another great benefit of using Hibernate is the fact that we can lazily load associated objects when needed.	0
+hibernate	As Hibernate is the reference implementation of JSR 303, however, it intelligently picks up on these constraints and translates them into...	0
+hibernate	For the matter, Hibernate is the only choice.	0
+hibernate	"Feb 1, 2006 ... Hibernate is the same as ""to sleep,"" and the opposite of ""to sleep"" is ""to awaken""."	1
+hibernate	A bear would hibernate during the winter season.	1
